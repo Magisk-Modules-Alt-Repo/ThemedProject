@@ -1,7 +1,7 @@
 {
   "version": "2.4.1",
-"apkFileName": "16dp",
-  "apkFilePackageName": "themed.roundedcorners16",
+"apkFileName": "ThemedCorners16dp",
+  "apkFilePackageName": "themed.roundedcorners16dp",
 "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
