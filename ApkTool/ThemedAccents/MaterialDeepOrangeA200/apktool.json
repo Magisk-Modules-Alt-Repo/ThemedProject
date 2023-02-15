@@ -1,10 +1,8 @@
 {
   "version": "2.4.1",
-  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAPySURBVHic7d3dVdswHIbxV6b3ZYOyQbMB2qBsQDoAqTdoOgEmDNB0gsIEqBMUNggblAGwekFuSj9i+o8kfzy\/c7jziXTIcxzFdmwJAAAAAAAAAAAAAAAAAADAypWewN\/E2h+p1bGiTiQdSpKcfNlZDY9bhaTv8auUL\/5SsfaHanUqaa5WM0k9ThxSjwKKC3+qVktJR6Xngu6KBxRrP9OjziU+noaoaECx9jO1upHbrnEwOFWpgeOZn6vVd4l4hqxIQPHMz+X0ucTY2K\/sAcXaz+R0nntcpJE1oO3X9BvxsTUaeRfRj\/r6wgXzg6QrRQUdaOOaEFJNbZe48HHXNl0P2sWFX0r6uGOzT24VltY5pZYtoFh7r\/ZFX9W\/qFLtmvAj2aRglm8P1HZe9zwoqnaXYZ10PtiLLAHFMz+XtqcmdqnkXRNu084I+5JnEe100mm7qPfEMyzJA4q1P5T0rsOm13xsDU+OPVC3hXOlOvE8kED6gNpOH1\/Xrgmb5HPB3uXYA+2+PCOq2PEd2BQ7mfqLA7FwHqgcAb3tsA0BDVSOgHaeuuBo83AVvyJxQL6VnkAfEVBHbhW45PYP+rGIxmAREEwICCYEBBMCggkBwYSAYEJAMCEgmBAQTAgIJpwLKyFqI7fj5GzUIK7QJKACtj8eGMUPCPgIgwkBwYSAYEJAMCEgmBAQTAgIJr04DtSHO23h\/7AHggkBwYSAYEJAMCEgmBAQTAgIJgQEk14cSEz9XM+x6sMBWPZAMCEgmBAQTAgIJgQEEwKCCQHBhIBgQkAwISCYEBBMCAgmBASTHGfjHyS9\/tcGfTirPFL3qQfIsQfiWWDlJP\/f5wiIx1mWM4KAKgIqptJV+iESc00Iki5Sj4PfXLgmJN8DZbuUNC78rbo9PxV2d24VZjkGyvc1vtJc0l228abrbvu\/ziL7xexx4RtJH3KPOxEXbhXqnAMW+TVErP1MrU4kzbZ\/b0rMYwTu9fRN61aVrnKseZ4b\/c9p4sIvJX0sNPwntwrLQmNnwakMmBAQTAgIJgQEEwKCCQHBhIBgQkAwISCYEBBMCAgmBAQTAoIJAcGEgGBCQDAhIJgQEEwICCYEBBMCggkBwYSAYEJAMCEgmBAQTAgIJgQEEwKCyfgDitoUG7sa\/x1qxx\/QQdE3sVy8mYz+\/kBSuRuZT+Fx5uPfAz25nsiY2U0joEq1nh65kMvDdszRm0RArgkbxYxvaKW5a8Lo1z\/SRAKSJHcZ1spzw\/ML14Tkd4jvi9Ev8p6Ltfdqtdb+7wx7v93zTOrRDpMLSJJi7Q\/1qLmcZpKOJB3\/50t9k3SrqI0OtHZN+LG\/WQIAAAAAAAAAAAAo6ScAmr00qvosDwAAAABJRU5ErkJggg==",
-  "apkFileName": "MaterialDeepOrangeA200",
+"apkFileName": "MaterialDeepOrangeA200",
   "apkFilePackageName": "themed.accents.MaterialDeepOrangeA200",
-  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/output\/MaterialDeepOrangeA200.apk",
-  "isFrameworkApk": false,
+"isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

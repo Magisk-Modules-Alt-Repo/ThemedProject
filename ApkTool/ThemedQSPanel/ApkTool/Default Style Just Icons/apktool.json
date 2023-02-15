@@ -1,10 +1,8 @@
 {
   "version": "2.4.1",
-  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAABPSURBVHic7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBXA+F4AAGnBe+pAAAAAElFTkSuQmCC",
-  "apkFileName": "Just Icons",
+"apkFileName": "Just Icons",
   "apkFilePackageName": "themed.qspanel.default.justicons",
-  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileJustIcons.apk",
-  "isFrameworkApk": false,
+"isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

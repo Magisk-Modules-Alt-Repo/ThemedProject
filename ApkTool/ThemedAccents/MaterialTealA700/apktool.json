@@ -1,10 +1,8 @@
 {
   "version": "2.4.1",
-  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAPoSURBVHic7d1NbhxFAIbhr0dAlswN8A2YG8R1AryNW1HGJ2BukMkJgk9gozCwxD5BOSfAvsH4BvESAW4WbYEIkGn7m6rqn\/eRvLFarpLnVf9PtwQAAAAAAAAAAAAAAAAAAOCqSk\/gf8WfDqQ\/nkvVkVTN2182h2UnNUChTvoZf5byjz9aPJtLX7yStJTuF3\/33ZScFT6hPwHFH15J1VrSQempoLvyAcXNQqresnkaprIBxc1CUpSaedF54MlmxUaOm6WkXyQRz4CVCaiN56zI2Nir\/AG1m6232cdFEnkDimdzSVFstkYj8070s58fucN8J1UXUnMl3W8VXl4lm9oucbP7ZFTXk3Zxs5b0esdSbxTqtT2nxPIFFN8dPu5Qvfpe+nWlcPIh3aTgyrgGmnXd77mTtFI4Pk85G+xHnoDao65Fx6UPFerrlNPB\/uTaiT7quNwJ8QxL+oDaI69vOix5qVCz2RqYDGugZx13nGertPNACjk2YV02X5cKL7bJZ4K9yxBQ0+H2jKbc+R1Yyl1M\/YeGHeeByhHQ17sX+Z2ABipHQLsvXXC2ebDK35E4HO9LT6CPCKirUHPL7X\/oyU40hoqAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFi4FlbGVrsvzg7iDk0CKqH98sAovkDAJgwWAoKFgGAhIFgICBYCgoWAYOnHeaAePGkLT8MaCBYCgoWAYCEgWAgIFgKChYBgISBY+nEiMfF7PUerBydgWQPBQkCwEBAsBAQLAcFCQLAQECwEBAsBwUJAsBAQLAQECwHBkuNq\/J2kLz+5RA+uKo\/UbeoBcqyBeBdYOcn\/9zkC4nWW5YwhoHsCKuci9QDpAwovrySdJh8HHztVqJOvgfLdShp\/vJaaDu9Pha+6UThe5Bgp42F8s5Sqm3zjTVV10\/6vM42Wa6C\/xM13kr7NPu40nCrUq5wDlvk2RNwsJB1JWjz8fFVkHsN3q\/ZI61rSRY59no+N\/+s0cbOW9LrQ6G8U6nWhsbPgUgYsBAQLAcFCQLAQECwEBAsBwUJAsBAQLAQECwHBQkCwEBAsBAQLAcFCQLAQECwEBAsBwUJAsBAQLAQECwHBQkCwEBAsBAQLAcFCQLAQECxTCGhbbuhq9E+onUJABT\/EpmC8eYz\/+UBSuQeZT+B15lNYA0nS5UTGzG4iAc1Wal+5kMvdw5ijN42AwoutpIwfaLV8GHP0phGQJIX6XHkeeH6qcJz8CfF9MfqdvH+J7w6l2bn2\/2TYW+l++fBk\/smYXkCSFM\/m0udLabaQmgNJz5\/4l95Lum4P1387Vzj5sMdZAgAAAAAAAAAAACjoTwVmocJ6o5anAAAAAElFTkSuQmCC",
-  "apkFileName": "MaterialTealA700",
+"apkFileName": "MaterialTealA700",
   "apkFilePackageName": "themed.accents.MaterialTealA700",
-  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialTealA700.apk",
-  "isFrameworkApk": false,
+"isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": true,

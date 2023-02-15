@@ -1,10 +1,8 @@
 {
   "version": "2.4.1",
-  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQqSURBVHic7d1BThtXHMfx35\/Cuo4UI7EqN6iXFSDFNyg3iHuCcoM4J2g5QekJCicoUR2LXeEGZlUJRyKssf3vIm6loiae5O\/33sz4+1mikd8T\/mr8PDOekQAAAAAAAAAAAAAAAAAAAKKs9AQ+xv\/6bl87X72Q+7FkneWf+0Un1UDWfZv0Pd5O+eKfy+\/7HT3OXsp8IKknl2rcOFSjgPzd4UvNH4cy7ZeeC6orHpDfHfRk9pOcj6cmKhrQMp7fJXVWboxa2io1sN8dDGT2p4in0YoEtIznlxJjY72yB\/TvmgetkDUgv+93WPO0S95F9OzxN31ePA9ynUt+KduaWHd0mWpqq\/j00FdtU\/WgnU+PhpK\/WvFqr607GkbnlFq2gHx61Je8+ld116\/a2TmxZ5fvE04LQRn3QF513fMg9xPbHZ8lnQ7WIktAfnfw4dREpY29b7vj67QzwrrkWUSbHVfazv0H4mmW5AH5fb8j6fsKm17wsdU86fdA83m1hfNsfpJ4JkggfUCLRZWPrwvbu5oknwvWLn1A5lUuzyh2fAcxxU6m\/pexcG6oDAHZtys32d4moIbKsQdaeeqCo83NVfyKxObwN6VnUEcEVJF1x1xy+z9qsohGUxEQQggIIQSEEAJCCAEhhIAQQkAIISCEEBBCCAghnAsrwRcTmT59cta9EVdoElAByx8PtOIHBHyEIYSAEEJACCEghBAQQggIIQSEkFocB6rDnbbwZdgDIYSAEEJACCEghBAQQggIIQSEEAJCSC0OJKZ+rmdb1eEALHsghBAQQggIIQSEEAJCCAEhhIAQQkAIISCEEBBCCAghBIQQAkJIjrPxD5K+\/tQGdTir3FK3qQfIsAdyngVWTvL\/fYaAtnicZTHpnwSZYw1EQKX44jz1EMkDsu7oUuanqcfBE+antjtOvgfKdimpTw+vJa1+firW4ca6b3s5Bsr3Nd59IOkm23ib62b5v84i+8Xs\/u7gZ7n9mHvcjWB+as\/HJ1mHzDnYP\/zuoCfbOpa8J6kn6ZsS82iBW0nXkl3LF+c51jxPtf7nND49Gkr+qszo9tq6o2GZsfPgVAZCCAghBIQQAkIIASGEgBBCQAghIIQQEEIICCEEhBACQggBIYSAEEJACCEghBAQQggIIQSEEAJCCAEhhIAQQkAIISCEEBBCCAghBIQQAkIIASGk\/QH5YlJsbEt\/k8vS2h9QhlvdftRiXi7eTFp\/fyCp3I3MN+Fx5puwB5Kkiw0ZM7vNCGg2P9GHRy7k8rAcs\/U2IiDbu5rIPd8balsD27tq\/fpH2pCAJMl2x2dZbnhufmrP\/0h+h\/i6aP0i7ymfHvUlP9P67wx7K9nAuqONerTDxgUkSX7f72j2OJCrJ\/N9yV584Su9kelabhNt75zZs8v3650pAAAAAAAAAAAAgFL+BnJC6DVDxD4\/AAAAAElFTkSuQmCC",
-  "apkFileName": "DarkMaterialYellow500",
+"apkFileName": "DarkMaterialYellow500",
   "apkFilePackageName": "themed.accents.dark.MaterialYellow500",
-  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialYellow500.apk",
-  "isFrameworkApk": false,
+"isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": true,
