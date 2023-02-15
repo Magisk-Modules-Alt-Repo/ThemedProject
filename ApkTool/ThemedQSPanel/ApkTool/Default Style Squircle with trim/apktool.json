@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAApOSURBVHic7Z1fjB1VHce\/B\/\/hS922NFYBu0WjpgpuEcUHTZdolGhiWx94kFRWX9F0eTCR+OBi9IGY0DZBeTChWySYGLXb+EKiptsHiBJx71obH2yyuxaCAs3eAm2tgh8fztztmTNn5s7unbl\/hvNJbnbmzpmd3z3f+Z3\/Mz8pEomMLmbQBuQBjEn62KDtKMkFY0xr0EaEGLjAiZB7JE0kn\/Hk7yjSltSStCxpXtLioIUfiMDAhKR7JE1qdMUsS1vSnKzgJ4wx7X5evG8CA+Oyok7JeumblVlJx4wx8\/24WO0CJ956UFbYIlZki7eW7N0uSa1+3\/EbAZhMNt0qZk+X05YlzRhjjtVpW20A48Bx8mkDc8BU4t2NA5gAZoBWQT4sAfcM2tbSAGPAoYIf1EpEHRu0rf0kueFngOWcfDmZlHaVUmkRnRRVRxWuY09IOtyt7gG2SPqEbBdpQtKNkq6TNJZ8rq3S5g1yTtJzks5L+meyfUbSs8aYpW4nA1OSZiTtCByeMcY8UKGtvdPFa+e7FcHAJ4EfAn8r8PxR4TzwW+AHwK4uv3uKsEcvMCzVFrboWQgYuQzsKzhvK\/B94FwduTxEPAPcS06VhHWOmcB5qxTkX1\/ANiJWA8YdLvhBNwGP1JOXQ8+jwI0FeRlqjHXrfdQDYXHb5Nx1wBbgJ8AbNWbgKPBv4CFgayCPxoDZwDmH6lc0bchUwIgWOa1A4JvAhbpybER5Ffj2OvL3cL2qXr34RODiLQJFMnALcKa+PGoEvwE2lRS53uKacLGcJ+5+4FKtWdMczhJocdNPkbH1w5J3sTxxH6w3PxrJZeBLJURepYYBEZEddsyIC1wLPFl7VjSbOwN5P+2lWaLKkcDABdp4dxHwDuD39f\/+xnMZ+ExAA791fbwqcccDRuzz0kRxq+UicHtAC7+f3HUgpOtYNHBSdmK+wxFjzLSX5neSPtvtf0XWRVvSLmPMC50vsKXmgpdmZ9GU6jVFV8C22FxxV2QHyd00DyuKWwdjkp5wv0iW\/zzgpUk5m0+hBwNLSs8M3eHOBgH7Jf26pMGRjXGfMSY1yAEsKz0TtdMYsxw6OdeDE+91xT3hiXuTpMc3ZHJkPTwIfMj7zvfaGeWQ68EB703dJcCipFvWYWhk4zxrjLnN\/QKYV3pZUNCLgx4c8N5jnrgHFMXtJx8H7va+88emgyNcQQ8OtJx3d9b3Am+VXTB2\/cZsjWyQ5yW93xhzpfOFVxe3jTGb\/ZMyHoxdSeCKe8pbvP0tRXEHwfWyq1Nd3Lp3jMA4daiI9ivwWW\/\/\/vXbFqmI75KeR57zjmcGPkIC++t51\/4J8BVJ2zZsXqRXNkm6t7OTDHCccI7vxRujTgmcFM\/uGLP\/qMXXq7M1skG+4e37XuxWrxkPnvT2Xe\/dKumLPZkWqYIdwOed\/Z4EdtcwHwikjwyGuzobSQm76BxLVbG+YO7zuCtex\/mOysyL9MoXvH3XEVPTuL7A7kH\/udZP92hUpDpuAD7q7Ke04urDcFcFJrsMpOUc2yVpS8VGRnrDnS\/2hyjXRiFdD\/aXgLgnRe8dPj7c2Qg87xUU2PdgV+CPVGdXpCL8GSaXbBGtrAe7\/d\/tVVgUqRT\/ycTFUKLcbo83\/vyeKiyKVIo\/sRBctlO2XxsFHj7eVSZRWYHj7NHwkXncxWFtsKOswO\/szZbIoOgqMBCHJ4cUoOuy5zLiRYGHlyhww4kCN5wocMOJAjecSgQe+CuHI2GMMf\/plqaMwG+pwJZIDQBdxydiET3adNUmCjzaVCJwrIOHl+jBDSd2kxpO9OCGEwVuOJUIHBle6JYgtqJHm0o8+H8VGBIZEFHghhMFbjhR4IYTBW44UeCGEwUebbpqU0bgrp3pyPASPXi0qcSDo8DDyxvdEkSBR5socMOJAjecKHDDiQI3nN5b0caY2A8eUowxlXSTJOmVHm2JVM8L3ZOUF\/hiD4ZE6uHlgmOnOhvRg0eXF8skKoqb5L5a+LmezYlUzfkyiVyBc+PfSfp7b7ZEasD3YD8Ug6S0wP7rg91XG56twqJIpZzubPhxGuS8P7pIYPflpH+tzq5IRfzB2fZfJLtWGq8JnLwa\/oKTyL0rnlIc8BgmLsvxYKWj1EmOs\/qNLNeL18p0Y8xrkv5SlXWRnnnGG4DKfZm7L3Dq3f9e2X5KkWHhaW\/fbWCtuKGQigSW0nfGzyswLFINv+xsJE7o6pTSMCVw4NXw+5xjf1S63I8MhtPGmD87+344u3yBE9yieK937OEeDItUw0+9fV\/gVKCszJODSQTLo85XfmjZJUk39G5nZAP8V9J1xphXpLXiedU5fsoYUxj5TMqGSluLRmqMeV0x+uggebwjboIfTtaPFJsbIHpO6eJ5c6dllryjeFHSzb3ZGlknV2TDuK9NEwJLutoHviBp3AsmmjvZ4IcPd70YSd\/p2dzIennIE3dS6QGOOV9cqeDpfT98uOzd03aO+2HgI\/Xxkqx3Xup8ASwo3T3a6cWalFQ8H5wKH65sZPCvSXp1\/bZGNsD9nrhTSot7LCSu1OX9GwEv3u3+I+CApMc2anWkFE8YY+7u7CQt5wWli+eg90rdV3S4XjumdPdJxpifKR1iPFItp5WNuj6jtLhH8sSVSrxBB5hXeqxzvzHGjQy+WXY68b1lLI6UZlXSrV6JOSnppJNmRdJEqHHVocyarGmlpxGPAmt3kDFmVdLnlO5wR3rjNUlf9sTNlKCSpovELQ0wTZoFfxUBcDPQJtIrL2LjNfsanPTSZQY1ehV53ruAfzcJuBW42IdMaCrLwPsC+XrUS9ciu0ynZ4HHyHpoSORPAS\/VnhXN4ylgWwlx22SjtVcm8gRZkWcC6bYDf6o9S5rB68D3gExsDOBgIH29g0vAVOCiIU9+G\/BYffnSCP4B3J6Tz77ngh3gqB9Kipyk\/SpwrsZMGlUeATIxgLFV4fFA+v6I6xgSEnkBpwvlpH07cB\/wcl25NUL8CvhATp5OAEuBc\/orrmPQPrJ18irgrzLopN8EzADP15iBw8qTwO6CvAzVt21y8rJvYO+65YBxJwl4c3LONcCdwC+AK\/Xk51BwCXgUuK0g\/yaxJZ9Pi7pay+sFW2\/MBYxcxbYQc\/tswBbgLuBH2L72herzua+cAX6MbXsU\/e5xwg0psHlZST+30re5A9Oyg+F+46Etu4jgSJmhNeCDknbKrv16t6Ttyd9tGo4wBFdkn+47L+lfss9unZV0xhhzuehEbDfnoLKL5SQ7JDzljvUPHcmdGfLmDkepuy83ZCR5cpBwA6rDbFVe2xewdYs\/vOmylIi9d6R+WAmwVdYe4BDh+tVlnpy2ShXUHnAj8dYZ5Ty\/6tBKPsvJ37bsYxjBuc4kU3aEjvUZ98mCieRTRrBjkmYDDxtUSt8iqmBbhNOydU+mg\/8mYUV2WfLhokn6KhlIyBxs326f7KK9YfDCOlmUfZxktvMAQT8ZeEykpKidkBW7U7yNqugrslXMfOdvvzw1j4ELnEcifG2Nj4ppVbKyIhKJRFL8H5yzD16izp8KAAAAAElFTkSuQmCC",
+  "apkFileName": "Squircle with trim",
+  "apkFilePackageName": "themed.qspanel.default.squircletrim",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileSquircleTrim.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qspanel.default.squircletrim"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    android:ordering="together"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator
+        android:interpolator="@anim/$$lock_scanning__2__0"
+        android:duration="67"
+        android:startOffset="0"
+        android:valueFrom="1"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="scaleX" />
+    <objectAnimator
+        android:interpolator="@anim/$$lock_scanning__2__1"
+        android:duration="67"
+        android:startOffset="0"
+        android:valueFrom="1"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="scaleY" />
+    <objectAnimator
+        android:interpolator="@anim/$$lock_scanning__2__2"
+        android:duration="117"
+        android:startOffset="67"
+        android:valueFrom="1"
+        android:valueTo="0.6"
+        android:valueType="floatType"
+        android:propertyName="scaleX" />
+    <objectAnimator
+        android:interpolator="@anim/$$lock_scanning__2__3"
+        android:duration="117"
+        android:startOffset="67"
+        android:valueFrom="1"
+        android:valueTo="0.6"
+        android:valueType="floatType"
+        android:propertyName="scaleY" />
+    <objectAnimator
+        android:interpolator="@anim/$$lock_scanning__2__4"
+        android:duration="333"
+        android:startOffset="183"
+        android:valueFrom="0.6"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="scaleX" />
+    <objectAnimator
+        android:interpolator="@anim/$$lock_scanning__2__5"
+        android:duration="333"
+        android:startOffset="183"
+        android:valueFrom="0.6"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="scaleY" />
+</set>

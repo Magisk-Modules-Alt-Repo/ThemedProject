@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_add_24px" id="0x7f010000" />
+    <public type="drawable" name="ic_close_24px" id="0x7f010001" />
+    <public type="drawable" name="ic_colorize_24px" id="0x7f010002" />
+    <public type="drawable" name="ic_delete_24px" id="0x7f010003" />
+    <public type="drawable" name="ic_font" id="0x7f010004" />
+    <public type="drawable" name="ic_nav_clock" id="0x7f010005" />
+    <public type="drawable" name="ic_nav_grid" id="0x7f010006" />
+    <public type="drawable" name="ic_nav_theme" id="0x7f010007" />
+    <public type="drawable" name="ic_nav_wallpaper" id="0x7f010008" />
+    <public type="drawable" name="ic_shapes_24px" id="0x7f010009" />
+    <public type="drawable" name="ic_tune" id="0x7f01000a" />
+    <public type="drawable" name="ic_wifi_24px" id="0x7f01000b" />
+</resources>

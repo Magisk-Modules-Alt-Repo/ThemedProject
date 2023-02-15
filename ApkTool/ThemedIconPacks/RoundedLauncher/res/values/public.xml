@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_corp" id="0x7f010000" />
+    <public type="drawable" name="ic_corp_off" id="0x7f010001" />
+    <public type="drawable" name="ic_drag_handle" id="0x7f010002" />
+    <public type="drawable" name="ic_hourglass_top" id="0x7f010003" />
+    <public type="drawable" name="ic_info_no_shadow" id="0x7f010004" />
+    <public type="drawable" name="ic_install_no_shadow" id="0x7f010005" />
+    <public type="drawable" name="ic_palette" id="0x7f010006" />
+    <public type="drawable" name="ic_pin" id="0x7f010007" />
+    <public type="drawable" name="ic_remove_no_shadow" id="0x7f010008" />
+    <public type="drawable" name="ic_screenshot" id="0x7f010009" />
+    <public type="drawable" name="ic_select" id="0x7f01000a" />
+    <public type="drawable" name="ic_setting" id="0x7f01000b" />
+    <public type="drawable" name="ic_share" id="0x7f01000c" />
+    <public type="drawable" name="ic_smartspace_preferences" id="0x7f01000d" />
+    <public type="drawable" name="ic_split_screen" id="0x7f01000e" />
+    <public type="drawable" name="ic_uninstall_no_shadow" id="0x7f01000f" />
+    <public type="drawable" name="ic_warning" id="0x7f010010" />
+    <public type="drawable" name="ic_widget" id="0x7f010011" />
+</resources>

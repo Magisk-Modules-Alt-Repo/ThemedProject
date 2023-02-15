@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQtSURBVHic7d1NctNIHIfhXyvJGt9g4nLYZJwa3YDcgNwAcwJ8A8wJICcgnIDkBBNOMErFxYa45NyArBOrWYwXUwwgh7+7Wx\/vs1a5O\/FbcluSJQkAAAAAAAAAAAAAAAAAAMDKpZ7Az5S59lf3euacTpw0kCQvHaeeV9uM5mHf492QL\/5YZa5B9aAXkibVg3K3\/tN90lnhVxoT0M2felHdayan\/dRzweaSB1QeKveZ3vLx1E5JAyoPlVeZ\/tZ6jYP2yVINfHOkSZXpHxFPqyUJ6OZIE+f1PsXY2K7oAZWHyp3X29jjIoyoAZW5Bqx5uiXqIto\/6KMeF8+dczqvpEvvtXw612WoudVZjOsPR2160G4x1kzS65rN3ozmmlnnFFq0gL6MdfyYr+rO6YPb0XRY6GvIecEmWkCZNl733Hmn6ehaZ0EnhK2IEtDNkSbyyjfZNqt0PPysIvScsB1RFtFZpZNNtvNOL4mnXYIHVOYaeKfndds5r4sDPrZaJ3hAq9VmC2e3p2nouWD7ggeUqf7jy3ldDAstQ88F2xc8oMrXX57hle74DmySnUz9r8qxcG6r4AE56a+6bXZ3CaitYuyBak9dcLS5vZJfkdgWXvqUeg5NREAbOphzye2PNGIRjfYiIJgQEEwICCYEBBMCggkBwYSAYEJAMCEgmBAQTDgXloB3WsrXnJx17bhCk4ASWP94oBM\/IOAjDCYEBBMCggkBwYSAYEJAMCEgmDTiOFAT7rSF38MeCCYEBBMCggkBwYSAYEJAMCEgmBAQTBpxIDH0cz27qgkHYNkDwYSAYEJAMCEgmBAQTAgIJgQEEwKCCQHBhIBgQkAwISCYEBBMYpyNv5P05FcbNOGsckfdhh4g+B7Ii2eBpeJ8+P99jAfO8TjLRHyEJ0GGf2YqASWTVToPPkboAZ7OdSnpNPQ4+J\/T4efwe6Bol5Iuxiq0wfNTsRVXo7nyGANF+xqfVZpIuoo1Xo9drf\/XUUS\/mH0x1jtJr2KP2xOno7mmMQdM8muI8lB5lenEeeXeKZf0R4p5dMCt8yq8U5FVOo+x5vle539OsxhrJul1ouHfjOaaJRo7Ck5lwISAYEJAMCEgmBAQTAgIJgQEEwKCCQHBhIBgQkAwISCYEBBMCAgmBAQTAoIJAcGEgGBCQDAhIJgQEEwICCYEBBMCggkBwYSAYEJAMCEgmBAQTDofkHdaJhy783eo7XxAO6t0b+LOKl28sXT+\/kBSuhuZ9+Fx5p3fA0mS87row5gp9COgPU317yMXYrlbj9l5vQhoWGjpXbw31DtNhkX31z9STwKSpINrnSnODc9PD67D3yG+KTq\/yPvel7GOM+lM278z7G0lTdZ35u+N3gUkSWWuQXWvicuUV177Tnr2O6\/jpU9OKuS1zPZ0Niz0ddtzBQAAAAAAAAAAAJDGN\/2xzm7KRwYmAAAAAElFTkSuQmCC",
+  "apkFileName": "MaterialDeepOrangeA700",
+  "apkFilePackageName": "themed.accents.MaterialDeepOrangeA700",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/output\/MaterialDeepOrangeA700.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    android:ordering="together"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator
+        android:interpolator="@drawable/$$ic_signal_wifi_transient_animation__2__0"
+        android:duration="317"
+        android:startOffset="0"
+        android:valueFrom="0"
+        android:valueTo="0"
+        android:valueType="floatType"
+        android:propertyName="fillAlpha" />
+    <objectAnimator
+        android:interpolator="@drawable/$$ic_signal_wifi_transient_animation__2__1"
+        android:duration="17"
+        android:startOffset="317"
+        android:valueFrom="0"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="fillAlpha" />
+</set>

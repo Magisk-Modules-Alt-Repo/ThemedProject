@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_qs_columns_portrait">8</integer>
+    <integer name="quick_settings_num_columns">8</integer>
+</resources>

@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAXxSURBVHic7VztcRs3EH3Q6L\/ZQegKTFeQ68BKBaIrsDqQ0oFSgeQKRFdAqgLSFYiugKcKXn4AF54oYncBHI6ccd4MZzQiD1g8LLAfWJzDyCA5A\/AJwBRAE\/49DZ8+tuEDAKvw90\/n3GYMOTu42h2QnAC4hiejATApbLKFJ2wF4Ltzri1s7zQg+YXkE+vjieSXU4\/XDJLXJF9GIOYQLySvTz3+KE5IzCHOiyiSM5LLE5NyDEuShxv\/6OR8OzULBnwrGWOWFaO3TA8ArjIef4W3QJvw2cZMN71LMAUwC5\/czXgB4OsoFo9+Sa0TZ7El+Uiy0XtQ+29CW22iDOtAeD0EcnYJQm1JzivKMw99WLGrRlIiOVWJOSJbClHDk5RIzh39HjUqSE5C3+OSFDq2kNNygD1mAHkb2vannWUiVStGcg1vQST8BNDkWIkwkx9CH53ALbyFe80JTsPAV\/BBsYSNc+5zavv9ju4NM\/FomYlem1N6\/ynFuVyGZ8yOH73mPxravs8l58pCTkJ7TSIpMSyZsJRpIynNn6NnX4urVsa2aoUiSxo3WpIrpa0XphgW6tZgY2mQ5G05DypuDXJMgswS7qzkTJWGWiozFwRK9bZLsKQyYfSarFk3fY+jvmZvDIKMSU6HNZUBkrxR2pD3VOraI+47HF9zDrGmrknafhQnmbr2RJcWT09OB5Ekeg2XcFyLqHvMovqRfBhogEPgQZFVUoRd7KG50mlU9WjzmcZG1LehvpW8D7RJLoQHFkJn1lhtbIixFo3jveg9I2XrpOV1g\/KzrhqYwMsWgzSmt1xQXiLRAJTnqz0dju8ne\/klv6gB9hokxTbR5QWfkz5H7ekwoZy4k8b2hiDJM5Z8nyGyhs8AvgL46AIAfAbwN3yCvxRSICqNba80lJfJUetFv7xKoXnl1pSFhqNaTtma7UwDFYQvNe1m7WM5SZLJlzC5gLy8noXvSnK6\/zjnzLkk59wcPmuZi+wxXghfAj71GUNu\/vkVgC218BY5z3TInswLyFaoRrHSKid37ZxbIH\/TlsYoBuCXyGf3UWs8gpxnOtzgfSWaBVv9J0fRXGY+iJQ9ZCicok9tD\/rtcYnMfSaY6T8yHv2Vqwk05J8z+pT3J\/rjmBii+wXlaFhDcnjCMr9LykZIGcamZImVWDjRg44gV3sAWdYP6tMS9cIzY3rSpdnKLE+6\/yMp7K8Zi4nlcaGPIVK5sVhMyk+3wN6KSSp4lP3g7P2QBmjAPX2S\/Zq9iQiC3wJYozxj8ENwTKVoYAPsCbKF\/e8h5VOsmME7nf8ddcMTc4c8p\/AQas4ngj0nlC2ZlttNrRUcE1EPmno2dJ8wc85JGjSBnHTKKx8ZB5K\/JWZD33FC2a9ZSlIwrZByLIjxF+WKk\/fLkrrZlk5VpSV6KkT3F+ryHl8xlPcT7WTVUo02FsRlT3m1xFMx1AcpJsmo1+CMAdHDp6498cQc9SPZtdK5pVCpJtTCLuoFFrJrwfL6oFORZCGnrD4oNDKl7ttYKsxKov1ULGirMJPQ0lpFS71G0VT0SD9jNR3JlopG9yZMK0pNOxSg7tuo1VyhnSnraNOChhmnrbArPWdNm2+jFk\/22ptxmFPSR9rLfye0lSDnHWHRdjnEpEkHQs\/DQC0e+Db8dp7Rj6UkUFxalrsaKwB\/Kj\/bAPjLOZesqmHQMY3YZN7\/mAJ4Etrt8OycK7uAQ7vZ3jG1pL8C6EMmS82SqRje2qnF9Hd4GqzjNBkntL\/IoB1cRtoq1Tvs6K8hVCcqEHNLe6WbelOgRJgZ0++IViEqgxjSL6vqF3tzQ4kn+txzNlmh72vmvRMka88puTd\/D\/9Wlxxs4HO+3ZtcAH\/6uQ3tT7E\/te3eGNMgv9DiO4Cb0d8UQ++bnHNOuuWIt69jJNUKJUphCkVGA31ocg656S3P4PZ1FPTLTrtyVAMrnoGjagbz37GRgu6dINVMd\/V3mAHe\/Ye3QlfIqynq4xf8aekq1C1WxSgE9UG\/cXZvwDsMVLu\/+4n3DfbuwDYnIP4fFfEvYCBSMPV4E9MAAAAASUVORK5CYII=",
+  "apkFileName": "Pokesign",
+  "apkFilePackageName": "themed.qspanel.clear.pokesign",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStilePokesign.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qspanel.clear.pokesign"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

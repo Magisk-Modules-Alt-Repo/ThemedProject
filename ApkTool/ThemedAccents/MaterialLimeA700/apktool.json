@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQQSURBVHic7d3BcdtGAIXht4hyDn0wNTpFHYQdWB1YkAswU0HYgekKHFUQpQALUgWWKwjVAX3KmD7IukYarQ\/meDxxIlJ+3F0C+L+jBsPdEf8BlwAISAAAAAAAAAAAAAAAAAAAAK5QegL\/p\/lb+\/EHPYlBhyFqsPzzQdFJtdDRMO17vJPyxR+qudJAN3oepXGURpIUYulZ4T5bE9DpQs\/jjaaS9kvPBesrHlCz0ChKr8THUysVDWgZzxvpyxoHLVOVGrhZaBylv0Q8rVYkoGU8f5QYG5uVPaCv1jzogKwBNVcasObplqyL6HijRg+L51rSWZAuFDSvH+si0dRWOl1o5RGpdQ\/avX6vaQh6cd82Merls11N3Tmlli2g5oMOYnzQV\/U\/w4+a1I\/0MdmkYMsWUIxrr3uugzSphzpJOiFsRJaAlt+6RutsG6SDeqhZ6jlhM7IsomPQ4TrbBelX4mmX5AE1Vxoo6unKDYPO+dhqn\/R7oH\/WWziHW01STwWblzygtT6+gs7rPc1TzwWbl2MNtPLyjKhyx3fgKXYy9WuVWDi3VY6Aflm5xQ4BtVWOgFaeuuBoc3sVvyKxRd6WnsA2IqA1HQ255Pa\/bMUiGu1FQLAQECwEBAsBwUJAsBAQLAQECwHBQkCwEBAsnAsroAqaxxUnZ6vQjis0CaiA5Y8HOvEDAj7CYCEgWAgIFgKChYBgISBYCAiWrTgOtA132sL3YQ8ECwHBQkCwEBAsBAQLAcFCQLAQECxbcSAx9XM9u2obDsCyB4KFgGAhIFgICBYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoIlx9n4a0k\/3bfBNpxV7qSgd6mHyLEH4llg5ST\/36d\/ZmrkcZalxLsOBFRVBFRKFXSWfIzUA9SPdSHpOPU4+MZxPUy\/B8p2KenpQjOt8\/xUbMLl0VCjHANl+xofpLGky1zj9djl8n+dRfaL2U8X+l3Sb7nH7Ynjo6EmOQcs8muIZqHRXdRhqDSSNFLUzyXm0Xqfj\/PM4p1mVdBZjjXPt1PouNfvNQ1BL0qMHaNePtvVtMTYuXAqAxYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIls4HVAXNi43dgzvUdj4glXwTC8abS+fvDySVu5F5Hx5n3oc9kBR03osxC+hFQOFWE31+5EIu18sxO68XAdV7mgfle0ND1Lje6\/76R+pJQJJUD3WiPDc8P653098hflt0fpH3b80HHUTpZON3hg16F6Tx8s78vdG7gCSpudLg7lbjEDWStC\/pyXe+1FtJsxg0r3Z0Uj\/Sx83NEgAAAAAAAAAAAEBJnwCFu7xfik8SMAAAAABJRU5ErkJggg==",
+  "apkFileName": "MaterialLimeA700",
+  "apkFilePackageName": "themed.accents.MaterialLimeA700",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialLimeA700.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": true,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAYAAADiI6WIAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAm2SURBVHic7Z17jB1VHce\/h7bQrhRILTXluaUEq221ChVIA6mYqsSg+MCIiVggQY0x1CIJiiaYGCOpCkGMiVHBpIpo0KLBEKm1tNWkNvKqtEKhtEpfltItabvt9vHxj3O3nnt27t27uzNz7tz9fZLJnXN3Zs5373fOmTlvyRiVuNQCUgCcJ2mKpPGSDko6UPs8KOmAc+5QQnml0HHGA92S3iVpjqSp8gaH28QWLnNI0lZJWyS9UvvcImmDc259AbJLp9LGA1MkXSbpkmA7s+Bod0paIWm5pCecc68WHJ8hScBpwH3AdtqDF4G7gbel\/m2GQuVSPLBY0vdaPPyQpB5J+yTtln+W76t91yOpTz7rf1NtO1VSl6SzJc0YhrxnJS2VtNQ5t3MY55fG2NQChkGzm3WDpJX9m3Nu90giAs6WdIGk6ZIulDRP\/tEyvsEp76xtS4A\/SPquc27VSDQYNYC3ABtr2ex64EfAx4E3l6jhPcBi4BGgd5BHwVrgI2VpqyTAXcBe4HeptbQKMBG4pWZwMzYCNwLjUmtuO4Ce4Iean1rPUAFmAj8A3mhyA7wEvDe11rYCeCb4gbpT6xkuwKnAbcCrTW6AB4HJqbW2BcAZwEJgTmoteQCMAz4LPN\/A\/NeAG1LrNAoCcMDNNaOz+CNwamqdhVHl7DsPajnaj4HjGeZvBmal1pg7+Dd28G\/tHZGVDxdgLvBshvm9wM2p9eUKsDL4B+9KrSc1wBjg2w1S\/z2p9eVGkOKhgkW1ogA+COzJMP+nqbXlBtANnJFaR7sBnEV2BdCvgSpWqxutAozFVwHHLAcatQ0YnQK+5i\/mr8BpqbU1hFFeXMsL4M4M81fTjvX8WHEtV4AbgGOR+Y8CJ6XWVgdWXMsd4BMZKf9nqXXVgRXXCgG4KcP876TWVQdWXCsE4OsZ5n8mtS6jBID7I+N7qVgHT2OY4Ct0QjYBE1LrMgoG377\/VGT+w2VFPh94ALi1lAiNOmrvUfsj879YRsRbggitvJ4A4PrI+EPAtKIjNePbAHyfvZAVRUd4LbAMWFRoREZT8B06d0TmX5dal1ECwKci43fQyX33jP8DrIjM\/35qTUYJANOAvsD4I8D5qXUZJQB8K0r1P0ytySgBYDzwemD8YQYZpdO0bRe4FNgF\/AN4e75yjbyozdlzf\/DVyZLuGPYFgb8Fd9EzIxVoFAd+sMbBwK+DNGkpbZjigRmSLg++2punUCNfnHM9kn4SfDVB0tAHZwBLoheG2\/MSaRQDvpv2kWHn0vhBfruDCxyjxBknjOGD75cXktlm3yirv0ZS+Fb4mHNuT+4qjSJ4KArf1PKZ+Lr4kGvz1WYURa1oF77k7Wr1xJOBo8GJu7FhPJUCWBol3AXxMVlZ\/VWSxgThZc65o4WpNIogzu6viQ\/IMj6+O\/6UmxyjLB6XFCbWKwc9A3guyCKO085jtoyGAKuiUlldc+1J0cGTJc0OvlrnnHujDKFG7qwO9k+SVDfIJc7qr47CTxShyCiF1VH4ijAQG39pFLbne3VZI+l4EG78nAf+HBUDTi5cnlEY+CnV+zkY\/i1O8eFU3Vucc33FyzMKZFOwPwGY2h84YTzQJems4MB\/lSDMKJYXo\/D0\/p0wxc+ODnqhMDlGWWyKwhf074TGx604luKrT0vGnxMdZMZXn9j4zKw+rqHbUZgcoyzilrkp\/TvNjN9fmByjFJxzvdFXJ8bSNzP+QGGKjDIJfezq3wmNP73JCUZ1GdT4MMUfd84dKVySUQZhjV2m8WGz3b7C5RhlEab4E3Pihsb3ZR1gVJ6uYP9w\/05ofHhn2ExKncOkYP9ET+lGxivusWFUlvCl\/fX+nYbGyy+ya1QY\/DLrIYOneJnxncCkKGzGjxLiYW+ZxsfrnU+VUXVaMv6l6KCLCpNjlEVLWX3chGfGV5\/Yw9jjE2PmQh4vR5tRFNRPhdbXcAwksDM4cHPJOo0cwc9x0Bv4uS78e9zLNswKplklTqV5h+qr3teGf4yNfzoKX1WEIqMULo\/Cfw8DsfFPRuErZFSVy6Lw2syjJAmYFL3gNT7YaGuAFwIfB29mBzZEw2tPKUGnkSP4Kc1DBoyBzJoY4cno75bdV4\/zovCAnDvL+FVR+MO5yTHKYpekrUH4gUHPwE+NGU6D\/Trttp6p0RL4VSpbn4MY+G30jLBUPxoAPhoZ\/0hqTUYJAGOpn\/+8D1sztqPIfHbX5rX7VfDVOEmfL0WRkRZgJn66s37+C1i36zYGvzTcrUD3SC\/0++hZb8uKtinAnMCnuM1lyBe7ODJ+GzAuJ61GjgALA5+25HHBv0Tm35KDTiNn8PUvy\/BLwC7M44Lvj4y31QxHC8CayPz7UmsySgB4K\/Vz2B8HZqXWZZQAAxcnWjf4WUblASYA2yPzv5Fal1ECwKcj448B81LrGm0A3cDTwF5gUVmRPpbxlm9Lk5UIsCj4\/V8pK9LTgf9E5i8vJXJD0oBaumVlRjyX+hUNAYa\/iK0xZGrml78sHPCVyPijwAdKF2KUT8bzvheYm1qXUTD4brzrI\/P3AjbSttMBpgBbI\/O3MXD+FaPTAKYDeyLznydYCsMYOsCD+NbRkbe2FUXtLfONyPx\/A9MHP9uIAeaHj8\/UepoCXEn9SsYArwHvTq2talBfVh95x4qiwZfx90bm7wfmD362EYLvQ3cXMCe1lpbAN+PGDTp9wJdTazMKBjgH2MRAHsV68HQ2+PH2T2WYvxnryNHZAOOBX2SYfwj4XGp9qcC\/te+tbe1bXBspwI0Zb\/wAK4ELU+srG+De8DdIradQgBnUL3QbvvgtAUbN\/LnU94O\/N7WewgG6GmT9ALuBr46WGwDfk6YaRbW8AD4EvNzgBtgD3AFMTK1zuAAXAWem1tGWAKcAX8NX8GTRA3wTiJdGa0vwpZjFwHM1\/YeB81PraluAqcBDDcwHOAAsBRbQZtOy4OcS+Bi+fiLulQRwZ2qNbQ8wG\/hlkxsA\/Hy7dwOXJNR5MXAbviNK3DAV84VUOisHvtbvHrKLfyH7geX4+uwFQNfgVx+ylnOBq4Hba6m6ZxBN\/WwGvpS3nrxwqQU0A1+1e52k6yUtaPG0bZJelrQ5+Nze4NgxkibKL8MSbudKmiVppgYuvdqMXkkPS\/q5c66ty+ZtbXwIMFnSJ+VvgnlqH+1IWi3pQUm\/cc5VYhXudvnxhgS+mPS+YJtWYvRH5Gf5XlPbVjnn9jQ\/pf2opPEx+CrfqyTNlr8JumvbSCuCdkraKOmfkl6ofa51zh0a4XWT0xHGN6KWM3TLL8rTJX8jhJ9OfrXlg\/LLr\/Xv90ja4JyzxZUNw+gA\/gfrxqbNADspeAAAAABJRU5ErkJggg==",
+  "apkFileName": "Divided Circle",
+  "apkFilePackageName": "themed.qspanel.clear.dividedcircle",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileDividedCircle.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qspanel.clear.dividedcircle"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

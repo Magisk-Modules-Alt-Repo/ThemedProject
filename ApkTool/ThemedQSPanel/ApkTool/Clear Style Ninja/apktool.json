@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAddSURBVHic3ZxrrB1VFcd\/f+gDbBHwBsS2xgfviuW2KmjbaOsTsBJFaYWK1FgN0IhGDTHGDwQjmKghEgMEDCkxQOBTgVYQDAmSaKvQ0kCbwiUgCra0+OBRitDy98Oa0x5Pz2NmzuyZq\/\/kZm5mZu9ZZ81aez33wDiC7Zttv6VpOsYlbF9se7vtO5qmZdzB9jTbr9i+z\/bLts9umqYW1DQBALZvB04Gfgu8Gfgk8C5J\/2yUMOCApgmw\/SmCIY9lpzYBfwVubIyoNjTKINsHASsJ5vy77dIaYKHtxY0Q1oamJejyjIa\/dJzfBdwFXGf78NqpakNjDLJ9EvANQqW6YVyoWpMSdBPwBPByn3vWAAtsL6mHpP3RCINsrwBmEAzqh13A3cC1Tala7QyyfRTwE2Az4BxDNgFbaUjVmpCga4gfXMTHWU1DqlYrgzKf5+PA4wWH7gR+Q6jaEZUT1ge1MSjzeW4kfJ7XS0zxKCF5v6qSrkGoU4J+COwG\/jbEHKuBuba\/WA1Jg1FLLJb5PA8CDxCWqRe2E75PP5xEqOlxknZUQ2Fv1CVBtwBj9GdOXtSqaskZZPtC4K3AUxVO21K1cyqcsyuSqpjtESLO+iPwUo4heVSshfcCHyOxqqWWoOuAZ8jHnKJ4hBpULRmDbC8gFtNB4cQwWA3Mt31uqgckYZDti4E7iXBiT4pnZNhJxGpX2z4lxQMqZZDtE2w\/DPwA+BOQ3AwTqvYHYJ3tq2wfUuXklTDI9iTbVwAPAROAtfRPY1SNtcDPgdOBx21\/rqqJh7ZitucTuZ1JxNt8dYjpilixXphNWLcHgK9JenaYyUpLkO1Dba8k1oC\/Eyo1DHOqwgYiYzCNkKZv2S79O0tJUFa3uhZ4kQg+XytLQAeqkKB2HEuo3bPAeZI2Fp2gEGdtT7d9D\/BLImXxCNUxJwXGiBe5E3jQ9pW2pxSZIJcE2RaRYL+CeBtjpDHfVUtQO6YBZxJZzOWSfp1n0EAGZZH4TcB0Iv35whBEDkJKBgEcCMzP\/tYAF0na2m9ATxWzPdn2j4k0xUTClKZkTh3YA9xPLOKzgTHbKzIN6YquFzpM92ZCh1NiBHg3MJVIqv0ZeDg7poKA9xEuwWPEIv5ot5v2IiutXAksIWKoKlMUvfB2YLTHtVUEo1LiEOAM4DjgZ8ClkvbmrfYyKMut\/IJIam2mHp9mBJib\/b+RqNMDLCO6PcjOpZSkFo4FFhERwFck3Qsg2zOItMTpBFN+T3qVauEDwFHARkn\/JUVZTHcyIUGraqJnKnARYannSdpxgKRnJJ1BLMQ3APOIDGAdODQ7ruxyrXXunTXRciRwDnAbMKuVhJvQuippN7DC9u+I8szThDOYp\/r5v45R4CPABZJua7+wn5mXdCswBziYUIGJCQlruQ3nd7m2LDumXH8mA2cB7wBmdzIHevhBkjYD7yEWznnsU4Wq8WR2HLW9wfY3s78N7FukU1mxGcBXgXuBUyQ93e2mPJ7094FLCcvW2ehUBeo28wI+RGjJUkn3DLp5IGwvJIj9FxGgvjEkkZ0YIRh1OGkdxanAZ4BtwGJJ2wcNyJ3usD2dyP1MIzKHKfyk5wnjkALHEH7OT4HLJeUyPoXyQbYnAdcDZxNv+PmCRA5CCgZNICzU0cDnJa0tMrhQPkjSa5LOBy4A3k+45+MZI8CXibrciUWZA0PkpG3PITpR9xDStLvsXG2oUoJGgY8C35N0TdlJhkraZxtP7iDKwA8xfCWjCgZNJsKmKcBnM5elNIYq+0j6B\/BhIq05n0iqNYnpwHJgPREuDMUcqLB5wfYiIo7ZSv4GzU4MI0GnEpmBr3fziMuissqqpNVEc5OBDxKiXheOIdac0SqZAxWXniU9CcwiUianlpiijNRNItacZZIqj9uS9AfZnkhkJHdRrKO1jIp9Atgm6QsFx+VCku4OSa8DiwnnrFAdqiBmEBK7ItUDkvUHSVpHJOBmJXrEgcCnge9Iei7RM5K34E0hEv\/byBd4FlGxBcCbJJVZ63IjaQuepJ3AUuB44KAKpz6SsJTnVThnVyTvcs2qA6sIb7uSKYmo\/EeSim5pKPWw5MhCkqeImn6\/Tvs8KjaXKDKeICllex9QUyN5FpJcCMykrVBQAocBC4kqaHLmQI17NSTdTPRLnzjENIuA68ukLcqi7v1iS4lC4UiJsXOI4sEllVI0ALUyKOsX\/C4RsxV59lRib\/3yzDLWhka+vGB7PfGjt3Rc6rVILwG2SDorNW2dGGbBHAZL2LdrZ1DP0UyisLcgNVHd0MiuZ0ljwGWEqvXDZKI15dt5SjQp0NjHTbLW3C1ELru1n6NTxc4E9khKss0gD5pSMSS9ke1iXkc4j6903HI0UX6eWTdt7Wj02x2SNgBXsT8TJhAV0MvqCCf6ofHvB2W7oZ8g1Gs9oWKnAUcAx9flMfdC019\/QdKrwLlEEfJg4G1EuvZLTTNnXMH2DbbHbD9nu3Sh7\/8W2eaYTbZ3FN0ukBKNWbFOSHrB9iXAxLrDiX74Dyixb7poRcM9AAAAAElFTkSuQmCC",
+  "apkFileName": "Ninja",
+  "apkFilePackageName": "themed.qspanel.clear.ninja",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileNinja.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qspanel.clear.ninja"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

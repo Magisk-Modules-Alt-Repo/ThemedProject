@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_4g_mobiledata" id="0x7f010000" />
+    <public type="drawable" name="ic_4g_plus_mobiledata" id="0x7f010001" />
+    <public type="drawable" name="ic_5g_mobiledata" id="0x7f010002" />
+    <public type="drawable" name="ic_lte_mobiledata" id="0x7f010003" />
+    <public type="drawable" name="ic_lte_plus_mobiledata" id="0x7f010004" />
+    <public type="drawable" name="qs_background_primary" id="0x7f010005" />
+    <public type="drawable" name="stat_sys_data_fully_connected_4g" id="0x7f010006" />
+    <public type="drawable" name="stat_sys_data_fully_connected_4g_plus" id="0x7f010007" />
+    <public type="drawable" name="stat_sys_data_fully_connected_lte" id="0x7f010008" />
+    <public type="drawable" name="stat_sys_data_fully_connected_lte_plus" id="0x7f010009" />
+</resources>

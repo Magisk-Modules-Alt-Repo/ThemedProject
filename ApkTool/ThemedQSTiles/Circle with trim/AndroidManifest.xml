@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    android:versionCode="1"
+    android:versionName="1.0"
+    android:compileSdkVersion="26"
+    android:compileSdkVersionCodename="8"
+    package="themed.qstile.circletrim"
+    platformBuildVersionCode="26"
+    platformBuildVersionName="8"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+        android:priority="1"
+        android:targetPackage="com.android.systemui" 
+android:category="themed.qstile" />
+    <application
+        android:label="@string/qstile_circle_trim"
+        android:icon="@drawable/ic_qs_circle"
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>

@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAb8SURBVHic7Z3hdSI5DMflfVdAOjiugtDBchVstoLkKlg6YDu4bAVkK0iuAtgKklQAVwFcBf\/7YE0YbHmYgfGMbfR7L+\/lJcBo0FiSZVk2VDgAbojoVvqfMebXwOIolwLgAd2YBT5nBmA6tPx989vYAnSFv\/TPRDQ1xvwlvGTf06VWfL09Ea3555cx5q2nz1cqANwBWALYOaPvRnjtrOMI9kbpic\/YsCxfhrn7yzBjCxCCv\/hvRHRHRJ4ima\/GmBfnfTdEtKv9qcnPTowxE+HaD0S0bCHmloheiOiHMWbb4vXXDYAbAN94lLTheyQ5ZgDWALYt5biLIUdxnDCNFVsAT7DBlDf6Isg04Ws9AdhL8sSWoSgAvAWU+ogEoloAU5alUvZj4HUzAAsIccJVEBp9OExz9jxqxGlMCsAGf6H7WPN9bK7KhPOT\/QrgteE1Dzk\/+QFXsxrCpYwGbAD1t3PT87HligGAF0HBFYux5esd9ltSZLzLeaQ2AeA75KAMbMFGjyd6AcC84Wl+LFXBRB8ReGg072Dn23kCa5KfAze3LuYJbgGsTw7NqcUoPGkQNslApORE6vAD\/yh8H3k96Hwjku\/ZI+Epz1DATq2q7ydPEw0bYLgmuVhf2xVY35y3JYNNUuTpY0aELWAeli4bQROBlfualG9W09sfOJ5S7UZXMkfLec\/nEgFyenM8JdeUW1FeCm5gINeTvQ5uJR1fUUd97oVAnisHF2ZiCSGl39RM9wQOM5A6w8xGIOeWnwa5+BURGERx15Vh\/a7LOupFrxR2g251yw6x1pT5gm5+eQ+dJkWDB5Sb9o1jLSE7fw2qIoPjyDpOehPyHC3vXGpGIHbBIZuKuj\/Q7RslAhtB76M+TYqiWDQGKhTY9eQVu0tNMJUEbEVInc25HzQHcN+zfMqFQC6J6jaK+UOqlaKNKjot4JdEdRvF8PPNuoMuIS4exfBreNWRJwb8zOKq7RvdrJXmmxMENpJ28RYiPgnvdUfrizGmr8YmSk9wy4h\/nD+fXk4UbLtmrRIFfolPc7AFf46lwVXCBIKtowHpmmh3iGulRsKw66x3GXqncEciNc85ArvSN5cCLOmFap4LwzXRP4noX\/5da61KhedY5TYMUZRSSLZXpdINDohviWhKthPvnyOLpPQJDo3XKmZEcqpSyRN31jMh4obgsPtebonojV\/4U\/PP2SEqmIjCw1vJByHN\/FL\/5xEjyqmcCfxl3jURR9GuUo0xGl1niKRHKcjSo2YK4pP627LRaVLhqILLwnOvquCCATDL7uQzJYwxxoundAQXTn0E\/0c2VambuxVFUZJAU5IFAdsYB2RXlt71KNyCCC02aBRdDm6R5JbosOA\/IaJ7slXxU7Ln4b6QkhOigolI3DGuTc4yA37z0juig4l2i9x1y0p+NI5gdzPxeZ1blFGA3WXYXJUDf+OZ7mzIBPj1WB\/To3oU7ZppLQTIB1dXHwGyKrgMXF35Gwfhbx9VP5wBrfxv7cW6ATwzWMFzHNo9h7f9wj\/tQ88dzAic2vYrRGNqpkuDzfQWbfo+KPmhSlWUBGB\/ew9tM1kmtYB4B2CplrcgIDciPS8xxZH1CrqEmAzCdLZ7yyt+SupH2e3U3o9PYPR27+cNudGljuKREUbv+R0J4Vd6xDv9UjkJ5CMGz+\/Gz6PYbe\/\/3KPMSgfgHzd7eVks5HPldSlxYCAfzN2PHuB34dlAA67BwPExRxX99fKGHLkte7uA0ggruF412f9BKfADLiD2mfLKEbA5iT1iHXME38lry\/+BQcxZDJvqam48j3YhZTxgo2qNoiMTzQwr44NDtiqtQFZH9uXAT0WukpiS1gRT03ImgnLBge14CuY52tIRSpXckSSVy4JN4a86AcBiVMEyIqDcPVJZ2GlQclpBQoI0KDetTQcNSn4e3cwkCKxre81CuRUNSt4kK\/RIwN9kAFifm4ZZDsFKdlOagF0N0eCrBo6PaR8\/oGoLmx9JyTpPdoBdil1no9w6zhN6tRvZ0LANKEvF1mFfEyzrzP4GG4BdnFnxA74aW57BwaGQYFGSotlFLQQXdV0rcDiuUtjxl5J2FNlATbFueU3F9Ry6DbkEtCKrvTZsiZYNigVsQqMYK3USVrBbkuuyQuI76HAcSEq84ZpnD7AFBKcUvUv1S4JcVgy+J533V7RQtDeKMYAZh7U0C9i0oiSD2+VGFdsEeFrlfGli51sczOMKNue9APAFwGdJGSeuO+P3LvizpDyxqDhY\/7qGVpm2BzZwmTeNCOFBaEJMtHR4P6BVpMPSUTnizkh0e0h2Q9\/jpWTb8R12dep9gEu9E9EPIvpKRH8McL1eyfbkMz5wYkr0UexXdauf8u8TIvq95cdVZ0Zt+eeNiLZ6qIWSPP8DDPD5MfXZw9EAAAAASUVORK5CYII=",
+  "apkFileName": "Dotted Circle",
+  "apkFilePackageName": "themed.qstile.dottedcircle",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileDottedCircle.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qstile.dottedcircle"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

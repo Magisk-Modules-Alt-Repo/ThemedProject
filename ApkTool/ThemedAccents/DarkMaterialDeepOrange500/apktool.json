@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQwSURBVHic7d1BVttWFIfx\/xU9ZVjvoD6Qeb2DsIN6QvEs7grqHYSsIGUFpTPRDAorKFlBYR58xA7CLD2n6GYAk6ZtrHD93rOl7zdMdPzewR\/yQ5IlCQAAAAAAAAAAAAAAAAAAIMpKT+D\/+Gw8VrvzXOZTyUcP\/2oHZWe1fexsmfQ9\/irli38pn45H2q1eSJrLNZH54\/9sbOeDtzEB+Q\/7L2R+LGlcei7ornhAfjieqLLXkvPxtIWKBvQQT\/WHpFHJeeDpqlID+2x\/rqr6U8Sz1YoE5LP9udx\/KTE21it7QH44nsj9de5xkUbWgHw6HrHm6Ze8i+hd+11fFs+dzM+l6lKyxup3l6mmtoof7fmqbboetPPZ3rFcLz\/\/Ynpl9fI4OqfUsgXks2cH8rb7n+rmv+qDL+y8eZ9wWgjKtwfytuu6505mC6uXp0nng7XIEtDjX12TThu37YG9aa4STwlrkmcR7e2003ZmPxLPdkm+B\/LpeCTZ9x22vOBja\/uk3wN9vdNt4Wy+SDwTJJA+oKrLx5dfWN00yeeCtcuwBqo6XJ5hxY7vIKbYydR\/sIqF85ZKH5D7dyu3+fA3AW2pHHuglacuONq8vYpfkbg1zN6WnsImIqCOrL7hktv\/sBmLaGwtAkIIASGEgBBCQAghIIQQEEIICCEEhBACQggBIYRzYUVYI9Oqk7NbcYUmARVg9c2ppF58gYCPMIQQEEIICCEEhBACQggBIYSAELIRx4E24U5beBr2QAghIIQQEEIICCEEhBACQggBIYSAELIRBxJTP9ezrzbhACx7IIQQEEIICCEEhBACQggBIYSAEEJACCEghBAQQggIIQSEEAJCSI6z8XeSvvncBptwVrmnblMPkH4PZMazwIrx5D\/7DB9hzuMsS8nwy5vjmakEVMp9e556iOQBWf3uUtJJ6nHwLyf2pkm+B8p2Kakf7V1JWv38VKzDtZ0tJzkGyvdnfNvOJV1nG2+4rh9\/1llkv5jdj\/Z+lvRT7nEH4sTOloucAxb5NoQfjifaqaZyn0g2kfRtiXn0wK3kVzK70n17nmPN86nef53GZ3vHcr0sMrjpldXL4yJjZ8KpDIQQEEIICCEEhBACQggBIYSAEEJACCEghBAQQggIIQSEEAJCCAEhhIAQQkAIISCEEBBCCAghBIQQAkIIASGEgBBCQAghIIQQEEIICCEEhBACQsgAArKm2NBt\/+9Q2\/+A7u\/LvYl+Xy7eTHp\/fyCp3I3Mh\/A48\/7vgSRJfjGMMfMbRkDmCz08ciGXu8cxe28QAVndNDLL94a6za1uer\/+kQYSkCRZfXOqPDc8P7HfbpLfIX5T9H6R9ymfPTuQt6da\/51hb2XV\/PHO\/IMxuIAkyafjkXarucwnUjWW+\/MnvZDZW7lfSWr0V3tq58379c4UAAAAAAAAAAAAQCkfAakH55FXNtoHAAAAAElFTkSuQmCC",
+  "apkFileName": "DarkMaterialDeepOrange500",
+  "apkFilePackageName": "themed.accents.dark.MaterialDeepOrange500",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/output\/MaterialDeepOrange500.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

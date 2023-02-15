@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAPwSURBVHic7d1PchtFGEDx145Z4ywiV1b4BugG8Q3wDSJOgG8Q5wTBJ8CcAPsEOCdAPgFilYqycLzFIc3CKgoIRGN\/6m7NzPstXVPqLul5\/msEkiRJkiRJkiRJkiRJkiRJUan1BP5PfsMBj3hG4ojM3urPh00n1UNpUvYz3i354veVr9njlufADJje\/bHplLTG1gSUlzznlhPgoPVc1F3zgPKSKfAKN0+91DSgVTw\/w1\/7OOqZnVYD5yUz4BeMp9eaBLSK54cWY2uzqh\/Gu9mqq\/RhfNWAVofpv2I81QzrPNAtP3G\/eG6Ac+CSxCI94bLMxNbLy\/VnpLp+WPktJyRefH4hXqZ9TqJzKq1aQPkdh+R7Har\/yBccp8e8LzYphdVbA2VedVzyBjhOE85KTkebUSWg1VHXtOPih2nCvOR8tDl1DuMTRx2X\/NZ4+qV4QPmaPTLfrF0wceFmq3\/Kr4F+77jj\/IHjwjNRAeUD6rL5SlykpyyKz0UbV2MfqMvtGc3O7yim2cXUf3HHuadqBPT12iV2DaivagS09tKFZ5v7q\/kdiT3yuvUEtpEBdZQm3nL7X7ZlJ1o9ZUAKMSCFGJBCDEghBqQQA1KIASnEgBRiQAoxIIV4LayFxIJ1F2dTP+7QLP7V5k1+o1P\/tA3vrZswhRiQQgxIIQakEANSiAEpxIAUshUnErfhSVt6GNdACjEghRiQQgxIIQakEANSiAEpxIAUshUnEr2h7GG24QSsayCFGJBCDEghBqQQA1KIASnEgBRiQAoxIIUYkEIMSCEGpBADUkiNq\/E3wJefW2AbrioPUuK30kPUWAP5W2DtFH\/vyweU\/TnLZj4OIaAdA2omcV56iOIBpSdcAqelx9EnTtOk\/Bqo2q2kecmcLr+fqk24ShOmNQaqeRg\/A64qjjdWV9y911VUv5k9L\/ke+K72uCNxmiYc1xywybch8pIpmSN2mAJTMl+1mEfv3Z3nmfOROYnzGvs8n05h4PJbTki8aDM4L9M+J03GrsRLGQoxIIUYkEIMSCEGpBADUogBKcSAFGJACjEghRiQQgxIIQakEANSiAEpxIAUYkAKMSCFGJBCDEghBqQQA1KIASnEgBRiQAoxIIUYkEIMSCEGpJDhB5RYNBx98E+oHX5ALT\/EtvFWMfjnA0G7B5mP4efMx7AGgsTFKMZsYPD\/IQD5DQc8Ys6an1zYoBv+YJqeDn8TNoo10OqDrPfwycxsDPHASAICSBPOqPPA89O0X\/4J8dtiFJuwv8vvOATONv5k2Lsnps5WT+YfjdEFBJCv2eMDMzJT4AB49sCXeg3MSSzY5Sw95v3mZilJkiRJkiRJkiSppT8BleSnLnJKgloAAAAASUVORK5CYII=",
+  "apkFileName": "DarkMaterialYellowA400",
+  "apkFilePackageName": "themed.accents.dark.MaterialYellowA400",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialYellowA400.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.accents.dark.MaterialYellowA400"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

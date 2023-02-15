@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQYSURBVHic7d3NbRtHAIbhb5iAa53CDqKrvTBCV2B1EHVgpoKwA9MVOKogSgWRKrBcgSQ4RK5UB9ZJIBNxfCADJEISUvo4M7vc9wEEXRaaAfli\/7UrAQAAAAAAAAAAAAAAAAAAuELpCfyX33V3eK+vXgfF46AwkKSoeFR6Xm1Tq0r6HX+d8o8\/1qXioNL8TVQYLaVhUJQkxfVvNE9jAvpNizdBi0lUOCw9F2yveEBTLYZBes\/mqZ2KBjTVYijFD1EalJwHnq5XauCpFiMpXop4Wq1IQOt4fi4xNnYre0Drzdb73OMijawBXSoOpPhBbLb2Rtad6Ep\/\/PrIHebbIJ1FhYul7mcvdXCRbHIbTDXfeDJq25N2U80nkt5uWOxdrWrizim1bAF90t3RYw7Vg\/TLXP3xK4XPKecFT7aAeuptu99zK4XxC\/VPk04IO5EloPVR13C7pcNRrf5V2hlhVzLtRMfj7ZYLPxBPuyQPaHXkpe+3WPS8ZrPVOskDqrTYase5p+U49Vywezk2Ydtsvs6f62CWfCbYueQBRcWNt2cExWLnd+ApdjH17+4V2XFuqQwBhe82LfGnnhFQS+VYA228dMHZ5vYqfkdie8SPpWfQRAS0pVrPuOX2XzRiJxrtRUCwEBAsBAQLAcFCQLAQECwEBAsBwUJAsBAQLFwLKyLMpOWGi7O9VtyhmfwRd7v8j078UxM+WzZhsBAQLAQECwHBQkCwEBAsBARLI04kNuFJW3ga1kCwEBAsBAQLAcFCQLAQECwEBAsBwdKIE4ncUPY0TTgByxoIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIlhxX428lffN\/CzThqvKeukk9QIY1EC+TKyj5Z5\/jhXO8zrKc9ge01JKAiglnqUdIHtBLHVxI4ST1OHgonNTqJ18DZbuVdKr5laSN70\/FTlzXqoY5Bsp4GB9Gkq7zjddZ1+vPOovsN7NPtfhJij\/mHrcbwkmt\/jjriDkH+8tUi6EUjyUN1z\/flpjHHrjR6kjrSgpnOfZ5Htr7f6eZaj6R9LbQ8O9qVZNCY2fBpQxYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFg6EFCYFRs5w0MuS+tAQOW+xFgw3lz2\/vlAUrkHmXfhdeZdWANJ0nlHxsyuEwH1tBxr9cqFXG7XY+69TgT0XAczKWT7QoM0Wo25\/zoRkCTV6p\/meeB5OHmhKvkT4pti73fyHvqku6Oeeqfa\/ZNhb5ZajlZP5u+OzgUkSZeKg0rzkRSGUfFQCq+f9pfiR6l3FbSczVWdvlL4vNuZAgAAAAAAAAAAACjlCxVzxXhzvILSAAAAAElFTkSuQmCC",
+  "apkFileName": "DarkMaterialPurpleA400",
+  "apkFilePackageName": "themed.accents.dark.MaterialPurpleA400",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialPurpleA400.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.accents.dark.MaterialPurpleA400"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

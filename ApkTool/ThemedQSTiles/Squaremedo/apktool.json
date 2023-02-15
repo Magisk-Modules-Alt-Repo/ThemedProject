@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAjjSURBVHic7d3PjxTHGcbx77trB8IuMKxRhKIIhzg5+EaOUSLF3HwjkW2kWEieFTkl8QH5D+DkcxL54oNXu1xwHCs4XHxdDo4UKUICyZEPXoKSHFhhZK8BA45t3hzqbba2d35099RMV3fXI42W7Z6p6q4P1dMzW10NHYqqHlTVg3VvxywzV\/cGzCqqegDoA337dycidW\/ALGKgy0DPFm0BqyJyp76tmk1a34O9ntsDPrZHj4705FYDez33EHAd+JM9rtuy5bYjt\/YQnTssXwcuiMgjWzcHvAw8Q8sP160EHoarqj0AEdnqCnLrDtFjcNeBdVXtWW++YM\/p4Q7Xi3Vt97TSKuACuF\/YozPIrQE2mHG4i\/YYhrxEy5BbAVwC9zl7dAa58SdZHu4SY3BFZMte0wMuA\/eABeDEgBOvT3EnXvdmvU8h0+geXBD3Nh4uuLNoOtKTG9uDC+JuiEh\/RBmt78mN7MEhcKF0T943tR2aYhoHHAo3S9uRG3WIDo2bK7vI4fo27nB9P8gOzSCN6cHWe6aCC4V78mEa1pOD9WBVXQ9V1oDcAvYD3wZuAMds+UPgKPAZuY9CVZPryYeA\/wB7bXVW9wPgLvCdSeoaFRE5EaScEIXAY+B7wEaoMi1zwB7gSWATyHrPHlxjz9vvpybFzWLIf7Zfv8HBfmm\/3weOAP+zx6MQdXr5IbAYCviJEIV42RCRs6EKU9UjwCu4HnRVRC7Z8qFfYoSIvfeeYrsn\/wR7T7b6TwLHcUeQ8yKyGapuVf29lR0k0b4H14WbZdh7sq27BFy1bXvFtjXKRAlcN26WNiBHBxwLbpamI0cFHBtuliYjRwMcK26WpiJHARw7bpYmItcO3BTcLE1DrhW4abhZmoRcG3BTcbM0BbkW4KbjZmkC8syB24KbJXbkmQK3DTdLzMgzA24rbpZYkWcC3HbcLDEiTx24K7hZYkOeKnDXcLPEhDw14K7iZokFeSrAXcfNEgNycOCEuzN1I4cGniPh7koZZAKbhCzsFm6kY8IdkBLIe3BtGSRBgNXNHncAN7Q14Q5JQeQngf0aaEa+iYFV9TBwGve\/bzPhjk4B5E3cAP\/T1rYTZSJg24A+bjD6DfuZcMdkFDLbbbmAm6xtIuTKwB7uAm72uGO2POEWyBjkY7g2XcCdXT9VtZ5KwKq6hDvjWwA+Ai7Zqj0k3MIZhIxrQ4C\/4tp2EdeTl6rUURrYKlq2ij8C3hURxV3GcYyEWyoDkI8BD61N32UbebkKcingYbh2aHkadyFYwi2ZHPI8cNQuXZ0YuTDwGNx13FwWkHArxUMGdzns5RDIhS4fLYCbDsuBMmKmAQFeAp61dasi8unwklzG9uCCuBsk3CDxevIGO2caqNSTR\/ZgQzxjBX4IXByA+7WIPDeimJSKUdU13AXho3ryyqiONbQHG2LWcz8Ukb8MOSz\/ItQOpeyMuPlGivTk3tAyBi30cA9guN7y9J474xToyXdw78m7LHYBJ9w4UxVZcoUk3IhTBVm8FyfcBqQsstiLEm6DUgZZ1E2Df4YcrhV0FXcq\/j3geMKNJ6p6GTcN1oKI\/NiW5ZFX5hj9Zccf7OfTpI9D0URV+8DP7dc\/ZsvtI9Q33lPnshf0VPWsqp5T1RfyhanqB+pSaR7IlHAxDzWTvrdcVPUFMzy767NxQo4\/Y3BPDcX1npiQI83EuN4LEnJkCYbrvTAhR5LguF4BPVV9rQByOrueUqaG6xW05COr+5zlV\/6Bqm6parDpb1Ncpo7rFegjnxqBnA7XgVIQ97WJcb2CiyCn9+QAKYFbaRjtqIqLIP9DVV8MWnGHoqovWhsGwy08qtIGeK3ivpt+FngpQxaRNeAm8AnwdkIuH2uzt3FteNPaNP\/9cuHBdllKjYsehYy75cxN4AoJuVQ83Cu4NjxsyyfChQpXNnjIX7Ab+Q7wJgm5cHK4b+LaMAguVLw2ySpaYxv5pLdujZ3Iz1epowvJ42aHZcsvmRAXJri6UERus438I9wlj9k6H\/m9hLw7Y3Bv4P6gPxFukKjqYVX9raquq+rruXV9Vf27qj5IyNtR1edV9Strm35u3evWlr8J\/lGoalT1oKq+o6or6m4a5a9LyF4M98EQ3JPWhu9oLFM4AIjI57ghP3eB4z6yd7i+RscP17bv7+HaYsdhWbfvpnYXOGBtOnFCzrKzF\/gW7jrhhJxLQdxNnMnegYVUSOh5sr4EzpOQd6QE7nl2jqmaOMFnuhN3o8aEbCmDKyIPQ9c\/lbkqE7JL3bgwxdlmu44cAy5Meb7oriLHggszmPG9a8gx4cKM7tnQFeTYcGGGd11pO7Jt80UiwoUZ3zepBPLFJiF7uLv+cFAnLtRw57OCyFdoCHIOdyUmXKjp3oUFkFdoAHLsuFDj3UdLIv+snq0cnibgQs33Dy6B\/H5MyE3BhQjuAF4Q+RqRIDcJFyIAhuYgNw0XIgGG+JGbiAsRAUO8yFZX43AhMmCID9nqeJ8G4kKEwBAPsod7jQbiQqTAUD9yG3Ch4IzvRaKq67iB2huhyrR8ZY8juOt2Frx1+4GjwFPAG7nB45Vjw1l\/h7tNwX+xy0ks921b7uI6SNAxVLgB74siciJEYU+EKMTLIu5\/duj8237+FPgX8ANv3Se4m0mtqiqTIhvuKvA34PNcXTdw+3cL+C4BRz92Pqq6z66gOKeqp1V1zlsX5CJ0HX7x9ZzVec62Yd+k+5MyINNETriRxJBfDYmccCOLqi6GQi6I+2rCnXFCIJfAXZz2\/qQMyCTICbchqYLcJdxgX3TUGYNYBpaA68AFEXlk6\/rAr3GfoZftJdnn3Le82WzmgJeBZ3BfcKyKyL1Z7sc00gpgKIW8BfyTDuBCi4DhMfIZoMdwZMX7brnNuNAyYAB1NxlZZjgyQ3C3cPCtwYUWAsNoZO8588Cv2MZdFZE7+bKanlYCw9iePA+cBr5Pi3GhxcAwGBm3z53AhZYDw2PkPnAI+BiYx\/0J8DNgrc240AFg2NWToQM9N0sngOEx8hngER3B7VzU3WgkyAxyTcn\/AReEY\/j9njHiAAAAAElFTkSuQmCC",
+  "apkFileName": "Squaremedo",
+  "apkFilePackageName": "themed.qstile.squaremedo",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileSquaremedo.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qstile.squaremedo"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

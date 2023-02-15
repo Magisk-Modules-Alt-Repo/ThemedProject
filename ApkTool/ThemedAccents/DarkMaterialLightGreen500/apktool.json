@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAARhSURBVHic7d1BThtXHMfx3zNGXdY3KDeo95EJ7KpppPoGcU9QIsWWWIWsItmVXE5QeoKChBx2JrisCzcwNwjLBJh\/F7BJlMYOf897nvH3s0Qj3hP+auYxM56RAAAAAAAAAAAAAAAAAAAAvELqCfyfN+OfNtbX157mZu0ga9z\/NGylnVX5dFujQj\/jepG\/\/FsNx+3GXf3jc5M6kppm9lD40na+8pYmoN\/\/+fn5nT7umWkj9Vwwv+QB9c+zZshtaGYcnkooaUD38WgshUbKeeDxaqkG7p9lnZDrX0nEU2JJAuqfZZ0Q9GeKsbFY0QPqn2fNEDSMPS6KETWg4bjduF\/zcNiqiqiL6Nv6h7+\/ccF8LbNDUzgNoTbtto5PC5vcDINJZrO2mfek3WCS7Ul6NWOz193WaM87p6JFC2gwebYl5fP\/q272V\/3uu50X24fvC5wWnCLugfJ51z3XZtrpbb49KHQ6WIgoAfXPso6k5jzbWk1bvSeji4KnhAWJsogONbXn2c5MvxJPuRQe0HDcbsj0y8wNg456myMOWyVTeEB3ax\/mWjjf3uQ7Rc8Fi1d4QKY5Dl9BR7vbJ9Oi54LFK34NFMIct2eEZOd34JPsYuonLLBwLqkYAf04a4P6bZ2ASipGQDMvXXC2ubyS35FYIu9ST2AZEdCcuq0Rt9x+wXIsolFaBAQXAoILAcGFgOBCQHAhILgQEFwICC4EBBcCggvXwhIw0zSEr1+cNVMp7tAkoAQevjxQiS8QcAiDCwHBhYDgQkBwISC4EBBcCAguS3EeaBmetIXHYQ8EFwKCCwHBhYDgQkBwISC4EBBcCAguS3Eisej3elbVMpyAZQ8EFwKCCwHBhYDgQkBwISC4EBBcCAguBAQXAoILAcGFgOBCQHCJcTX+WtL3X9tgGa4qV9RV0QPE2APxLrBUQvF\/+xgB8TrLVKwSAdUIKBGr6bDoMQoPqNs6PjVpv+hx8CmT9ntPRoXvgaLdSjqYZBea4\/2pWIjLbmvUjDFQtH\/jraaOpMtY462wy4e\/dRTRb2bvT7I\/gvRb7HFXgUn7vdZoJ+aYSb4N0T\/PmiFXW0FNmZqSfkgxjwq4UtCFTBdW02GMNc\/nKv91msEk25P0KtHwr7ut0V6isaPgUgZcCAguBAQXAoILAcGFgOBCQHAhILgQEFwICC4EBBcCggsBwYWA4EJAcCEguBAQXAgILgQEFwKCCwHBhYDgQkBwISC4EBBcCAguBAQXAoILAcGl8gGZaZpq7GBW+SfUVj4graV7zHC+FpLFG0vlnw8kpXuQ+Sq8zrz6eyBJCjpaiTETWImAbm\/yHd2\/ciGW64cxK28lAtrdPpmaKdoHGsw6u9snlV\/\/SCsSkCT1NkcHMR54btL+y823hT8hfllUfpH3ucHk2ZaUH2jxT4a9kmqdbut4pV7tsHIBSdJw3G7crt90lOdNhbAh6ekjf9U7ky5CCNP6zfrBi+3D94ucJwAAAAAAAAAAAIB0\/gOeHvlQFWoANQAAAABJRU5ErkJggg==",
+  "apkFileName": "DarkMaterialLightGreen500",
+  "apkFilePackageName": "themed.accents.dark.MaterialLightGreen500",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialLightGreen500.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": true,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

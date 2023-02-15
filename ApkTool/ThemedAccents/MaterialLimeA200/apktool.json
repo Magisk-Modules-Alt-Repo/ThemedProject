@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQHSURBVHic7d3dcdtGFIbh72ByH0IqIOog7MCwGog6MFNB1IHpChJVEKWCSA1IcAWROqAKkGk1gJML0hf2JBLkw93Fz\/tccjDaHeodcAmAgAQAAAAAAAAAAAAAAAAAABBlpSfwf7benEh646rOJF\/sX25KzmmMjuw26f\/4h5R\/\/LW23iwkvXPZyqXl7lUvOic8bzABbb1557K1pJPSc0F\/xQPaerN02e\/Ox9MoFQ1oH8+tpMWLG2OQqlIDb71ZuewfEc+oFQloH8+fJcbGYWUP6MuaJ\/e4SCNrQFtvFqx5piXrItplf+t18Ty5dFXJW0mb2to20dRe9MnfvnhAqu9Bu0c\/XZv8\/XPbuOzDsd2so3NKLVtAW2+a13xVd+mvSn5+ZO3nlPNCTLaAXrHuebJdOJdJJ4SDyBLQ7lvXl1MTzzN5U1t7l3pOOIwsi2iXnfXZzuS\/Es+4JA9of4L0lx6bXtd8bI1Ojj1Qr4Wzyc9TTwSHlzygrt\/H13Vt7Sb1XHB4yQOyHpdnmKzY8R3EFDuZ+rWOhfNI5Qjo5x7bENBI5QjoxVMXNUebR6v4FYkj8rH0BIaIgHo6slsuuf0PA1lEY6wICCEEhBACQggBIYSAEEJACCEghBAQQggIIQSEEM6FFVCp27js2ZOzlbpRXKFJQAXsfzwwiR8Q8BGGEAJCCAEhhIAQQkAIISCEEBBCBnEcaAh32sL3YQ+EEAJCCAEhhIAQQkAIISCEEBBCCAghgziQmPq5nlM1hAOw7IEQQkAIISCEEBBCCAghBIQQAkIIASGEgBBCQAghIIQQEEIICCE5zsY\/SfrxuQ2GcFZ5oh5SD5BjD8SzwMpJ\/t4nD8h5nGUxLht\/QJU6AiqkUneVfozEamtbl12kHgdfc9lFbW3yPVC2S0k\/+ds79Xt+KuLuj+x2mWOgbF\/jTb6SdJ9rvBm737\/XWWS\/mP3RT\/8w+W+5x50Dl10c2815zjGL\/Bpi682yU3Vm8qWkpaSfSsxjAh4k3bnsrlJ3lWPN863J\/5zm0U\/XJn9fYmyXfTi2m3WJsXPhVAZCCAghBIQQAkIIASGEgBBCQAghIIQQEEIICCEEhBACQggBIYSAEEJACCEghBAQQggIIQSEEAJCCAEhhIAQQkAIISCEEBBCCAghBIQQAkIIASFk8gFV6jYFx578HWonH5DK3ma4WLy5TP7+QFK5G5nP4XHmc9gDSdL1TMbMbhYBmfxcu0cu5PK0H3PyZhFQbe0m5z\/U5Kva2smvf6SZBCRJtbWXOW54vr\/Bd\/I7xA\/F5Bd539p607jsUoe\/M+zDfs8zq0c7zC4gSdp6s5CqVSdfmnQi6c13\/qmPu1vsaiN1l7W1nw85TwAAAAAAAAAAAADl\/AtBA+Iw7BUKdQAAAABJRU5ErkJggg==",
+  "apkFileName": "MaterialLimeA200",
+  "apkFilePackageName": "themed.accents.MaterialLimeA200",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialLimeA200.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": true,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

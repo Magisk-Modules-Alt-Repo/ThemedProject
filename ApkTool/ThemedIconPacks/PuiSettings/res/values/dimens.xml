@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_tile_foreground_image_inset">30.0dip</dimen>
+    <dimen name="dashboard_tile_foreground_image_size">30.0dip</dimen>
+    <dimen name="dashboard_tile_image_size">30.0dip</dimen>
+</resources>

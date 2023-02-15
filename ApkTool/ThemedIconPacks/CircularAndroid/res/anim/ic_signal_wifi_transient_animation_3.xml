@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    android:ordering="together"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        android:interpolator="@null"
+        android:duration="650"
+        android:startOffset="0"
+        android:valueFrom="0.3"
+        android:valueTo="0.3"
+        android:valueType="floatType"
+        android:propertyName="fillAlpha" />
+    <objectAnimator
+        android:interpolator="@null"
+        android:duration="17"
+        android:startOffset="650"
+        android:valueFrom="0.3"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="fillAlpha" />
+    <objectAnimator
+        android:interpolator="@null"
+        android:duration="483"
+        android:startOffset="667"
+        android:valueFrom="1"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="fillAlpha" />
+    <objectAnimator
+        android:interpolator="@null"
+        android:duration="17"
+        android:startOffset="1150"
+        android:valueFrom="1"
+        android:valueTo="0.3"
+        android:valueType="floatType"
+        android:propertyName="fillAlpha" />
+</set>

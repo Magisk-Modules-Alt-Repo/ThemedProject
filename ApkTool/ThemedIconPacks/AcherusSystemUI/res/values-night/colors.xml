@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_idk">#ffffffff</color>
+    <color name="qs_tile_icon_oos">#ff98a098</color>
+    <color name="qs_tile_oos">#ff222222</color>
+    <color name="qs_tile_oos_background">#ffdbdbdb</color>
+</resources>

@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAQ\/SURBVHic7d1PUuNGFIDx91rs4xuEG8Q3GG4QF3\/W4+zHRDcYzwnGYO+HWY8h5gRhThBzA3ODYY\/0sohTSVEJFvPc3Zb8\/ZaUiu7CX0mNJEsiAAAAAAAAAAAAAAAAAAAAXpp7Av9nUNphUcsbMRuISG\/946Occ2qj62mI+hkfxPzlrzUorVc8yVsRG0pl\/dzzwWY7E9DJub2Vysaicph7Lmgue0BnpfXryj6KGYenFsoa0Dqe3+WfNQ5aJuQa+Hhkw7qyP4R4Wi1LQMcjG6rYpxxjY7uSB3RWWl\/FPqYeF3EkDWhQWo81T7ckXUQXlf0mr4vnUcwWpuEumKzmM72LNbdNTka1bdqm6Um70\/NqbKbvX9pG1T7ML4uxd06xJQvo9J0dmbziX3Wzz9VBKBeT8C3itOCULCBrvu55NNHyZhauok4IW5EkoOORDUWaXZoIhR59megy9pywHUkW0So2aLKdif5CPO0SPaBBaT0R+bnBprc3U+Ww1TLRAyqemt2CURVaxp4Lti\/BIaxucvi6XUx0FX0q2LroAZnqxtszTPKd34FPtoup\/xZMWDi3VPSAVOSnTds8HRBQW6XYA228dLGYKGebWyr7HYltYSJfc89hFxFQQzfTwC23\/2EnFtFoLwKCCwHBhYDgQkBwISC4EBBcCAguBAQXAoILAcGFa2EZ1BZWIvbixVmz0Io7NAkog\/WXBzrxBQIOYXAhILgQEFwICC4EBBcCggsBwWUnzgPtwpO28H3YA8GFgOBCQHAhILgQEFwICC4EBBcCgstOnEiM\/V7PrtqFE7DsgeBCQHAhILgQEFwICC4EBBcCggsBwYWA4EJAcCEguBAQXAgILimuxj+KyA8vbbALV5U76iH2APHfWCi8Cyyj6H\/76AEFNV5nmYmqtT8gqQMBZaIhLGKPET2g+UzvRO0i9jh4Ru3iy0Sj74GS3Up6MqqX0uD9qdiK++tp6KcYKNm\/8aHQoYjcpxpvj92v\/9ZJJL+Z\/eS8mojpr6nH3QtqF9eXRZl0yJSD\/e2stL7V9cBM+yLSF5Efc8yjAx5EZKlqSw1hkWLN81znv05zel6NzfR9jrFV7cP8shjnGDsVLmXAhYDgQkBwISC4EBBcCAguBAQXAoILAcGFgOBCQHAhILgQEFwICC4EBBcCggsBwYWA4EJAcCEguBAQXAgILgQEFwKCCwHBhYDgQkBwISC4EBBcOh9QbWGVa2yrQ+efUNv5gIoi32OGw4FkizeVzj8fSCTfg8z34XXmnd8Drd3uyZjJ7UVAVaGl\/PXKhVQe12N23l4EtJjoyiThB2o6XEy08+sfkT0JSETkZqpXSR54rnZxPdPoT4jfFZ1f5D13+s6OTO1Ktv9k2Ac1Hc5nulevdti7gEREBqX1QiVDtbpvqocq8uZ7fo+JfFW1pVlY1YVcLSb6bdtzBQAAAAAAAAAAAJDHn\/WvBSFybmSqAAAAAElFTkSuQmCC",
+  "apkFileName": "MaterialIndigoA200",
+  "apkFilePackageName": "themed.accents.MaterialIndigoA200",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialIndigoA200.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": true,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

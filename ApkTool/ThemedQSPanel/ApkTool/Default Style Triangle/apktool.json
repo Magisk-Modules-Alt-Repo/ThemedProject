@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAH4AAAB+CAYAAADiI6WIAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAwtSURBVHic7Z3LjxxHGcB\/n3eNE9vrOPY6Dz9wNk4CSKD4EvGKEAiBEEIiCME\/wIlbRISUCKIgxOsQuHBBKAeUIHEIEkKgwCEggUQEMSQBKVYIWdtJnNjWxvbaju317tofh+pKZnr6Ud1VNV09uz9ptLszPTW9\/Zvv66rqr7thnXXWWTtI1yswLlR1CtiQewBcG3yIyNVu1nC8TJR4Vd0IXA9cl\/s5VfIWyV5bzT2\/CiwBl7PHEnBZRPLL9ZZei89EbwNmssd7GrxdgFuATcDrgEukXwEuAOeBC33+IvROvKpuA7ZjhG9q2YyVvjn7exU4jpv8QS5jvgRnReRiy3XphF6IV9XrgZ3ADmCjZ3N56ZaruEd+EUvAGeC0iCy3X73xkKx4Vd0AzAK7MPvqEJRJt6wCbzC6z2\/K28CCiJzxbCcayYnPet83ZY\/pgE3XSbeEkg+mT3ASkwU0QHvBSEa8qk4DN2MivKwX3hZX6ZaQ8gGWgVOYLJDEF6Bz8aoqGOG38u7YOiRNpVtCywdYAY6nsAvoVLyqzgD7ad87r6OtdEsM+WCGhK+KyJXA7TrTifgsre\/D9NJj4SvdEkv+NUz6P9FF+h+7eFW9AZgj\/H58kFDSLbHkg+kAzovI5QhtlzJW8aq6F7M\/j0lo6ZaY8hV4U0RORmi7kLGIz6ZWDwBbIn9ULOmWmPLBjP+PjmMCKLr4rAN3O2HH5EXElm5pO73rylVM6r8QqX0gsnhV3QHcFvtzGJ90S+zIv4aRfz5S+\/GEqOqtwO5Y7Q\/gI30Ks\/u5gNnPNiG2fMWk\/bMxGo8iXlX3Y+bZY+Mr3WajU5ijbE23xzjkvyoip0M3HFy8qh7AHDaNTSjpFh\/5Mff5AK+JyELIBoNOkarqHP2UDmaYuY3mKX8a2Evczus+Vb0xZIPBxKvqHuLOxFkEM68fUrrFR\/4e4skXYC4bIQUhiHhVncVEYGys9OtbvLdOuiVl+QeyohRvvMVnKWh\/gHWpQzCjhJjSLb7yY01HTwF3qWqT2sJCvMRnK3Cb70o4YCO9TSVOU+mWVPf505jI9+qY+0b8gQBt1DGO9F5Gqml\/M+boZmtaS8sOuMSeKetSuiVV+btUtfUIqpX4rHc5jqNsXUu3pCp\/TlVbFaI2Fp9Vv861+bAGjLMj50qKHb7WLtpE\/B78a9ur6KIj50qKHb7Nqrqr6Zsaic\/GkI0\/pAEppfcyUkz7u7NyNmeaRvx+4m3YPki3pCbftuuMs\/hsdi5WBU2fpFtSkz+rqs6jLCfx2WRBrGPrKXbkXEmtw7fXdUHXiN9FnA5dyh05V1Lq8M2oqlNWrhWfRXuMAzC+6X0Of+nLWVuTNMlzq8tCLhE\/S\/hoD7FP92UZuAMTdSFSbiqRf4PLvt5FfOgZuhQ6cla6bcdGne8ZLW3lTxFWfm3UV4rPqmRDnteWQkcuL92yB3MplUmQv11VK73VRXzIgskUOnJl0i27mRz5le5KxWdnv2wNsAKQZnovY1Lk76x6sSridxJmqNQn6ZZJkL8xO0G1kCrxIdJ8H6VbJkF+qcNC8dkkgG+nbgPpduRcSUV+2+Hm9uyaQiOURbxvbbyd9Em5I+dKCvL30T7ytxU9WSbep367z+m9jBTkt037hS5HxGcVNm1r6SZRuqWv8p0jfoZ2G22SpVv6KH9TUR1+kfjCb0gNa0G6pY\/yR9J9kfimkzYpT8PGom\/yR5wWiW8isA\/TsLHok\/wRP0Pisxpt1w24ltJ7GSHlz7Rox1X+iKN8xLtG7rr0dwkl\/xbiyZ\/KV+HmxbuITEX6nQHaWcTcbCDUJM81z3Ziyh8K6qYR7yN9mrCR7ssi8H7Mpdgu4R+xuzHT3KlGfqX4qvl5n7n30NJ92zmHkW7buR1zh4kQ8lNI+0Xz80Nj+bz4qrs1tZ17t9J9CSn9roJ2Jkl+0dz+UN1kXnzRRg2R3n0JLb3sGMUkyc+n\/crOXdEXYa1It0yq\/KFsXiV+LUq3hJR\/XYB2QsivjHgZ+LlWpVtCybd9o67lD7ksivgQlTO+dC3dkqr8pkwB7x18oijibXpqyjRhrpSRinRLivK3tminch+\/i3a1dpMW6XlSlN808oeutesynKtjUiM9T4rym0T+0HRyfuM0vR1WyI5ciLn3WNItKcp37fCtDP7hIz60dF9iS7f0Vf7S4B9txa9V6ZbbMUf1+iR\/yG1+Qy1RzwbWtnTLAdKUX8bQfe2aRvw05tvuS9+lW1KUX9bhe3vwj\/wGu1jR6FpP72WkKL8o7Q\/dziy\/0crueJRiev8A\/tIXMEUYvqOJVOUPUi5eRC5h5AySanr33TgLwMeAg5hM59teivJt2l8VkcpUDzB4b\/NJTe9Wuo30g4SRlqL8GUyZ2RBFG9Cm+42Ekb5E2tItqcr33Q3dQkERaNFGXMREeoj7zCwD7wvQzjnMlyeWdEuK8kMUc7yVf6Is1YeI9MuEi\/Q78b8WXZ10S4ryfSP\/WP6JEfEichGzkXxYxlSx+jJu6ZYU5beN\/LP5jh2Up86jLT7AErIj14V0S4ry23T4Xil6skz8fMPGLZMi3ZKq\/CZ9nZeKnixr4Bi5uV0HVpgs6ZYU5bum\/Ysi8nrRC4XiRUSBww1WJtRpTalJt4SW78vNmMvV1EX+i2UvVL2x9E05JjXS84SUP9LZasFN1Ed+c\/EicpzhWbwiVpjsSM8TSv6dhJF\/M6Yaumh9FkXkRNkb61LFvypeu8Lakm5JUX5R2n+h6k114v8DrBY8v4KZPvWlb9ItqcnPp\/0V4LmqN1SKF5ErGPmDrNVIz5Oa\/MHIf15EKqupXMaDfxv4PVSkL9Jv6ZbU5N+E2RZ\/r1uwVryIXMDs60N25O4ijPSP4yf9KKYD69OGle97GZRQ8l8umqLN4zoD9AwN7mlWQehI9+Eo8Cngo5gvY1FfxpWDhCm59pW\/BPzeZUEn8VnU\/85jhSBspPumdyvdni52D6YEy1d+12n\/qewgWy1N5nz\/DJxstz5JdeTy0i19l78I\/Ml1YWfxInINeLzhykA\/pFv6LP83IuK83o0qWkRkHni2wVsWMVOUfZBuSU3+JYflXhOR2p78IG1KmZ7E7YybM5hRgO9dKscp3WLlr9QtWEHIuf06+Y81bbSxeBE5D\/yqZrFzmFq7Pkq33IMpu05Fflnaf1JETjVtsFXxYpZW\/l3y8jlMpPveNy2E9GO0k275MOnIL9rnz9OgQzeIT9XqLzCSB0lN+qfxv5tWqvKvAI9ltRONaS0+O+vmMd79Z1KUHuomvSnK\/7WI1B02L8WrTl1EXgaeZrKlW1KS\/4aI\/NWngRBnmv4WU3rlu6FPkK50S0j5bf\/P50TkJx6fDwQQLyIrwPeBVz2aWQA+QdrSLaHktzlRcx74kcfnvkOww5mquh34MeaSaU1IOb1X8Q9gC35D1hcwpVMu\/\/sCcH923MSbYBcVEJFF4NuM9vSr6EN6L2Ocaf888HAo6RD4ahJZcd8juM3s9Sm9lzGOtP8W8E0RedPjM0YIfhkRETkCPAicrlgsRHqfp1vplpi9\/deAB6qqZdsSrWQpu2n9dzDTjYOEkv5Zupc+SOh9\/kvAIyIS4gSMEaLWqmX3NL0fuDd7alKlW0LJPwz8MBsxRWEsRYqq+hWMrHs9PzNl6RYf+Qr8DPhpVv8QjbFVp6rqPcCjmDLgNvRBuqWN\/EXgGyLyTJxVGmasZcmquhX4FvClhm\/tk3RLE\/mHga+3Obzalk7q0VX1M8B3gRsdFv8v8Hn6Jd3yLKazNnL\/9gEeF5EfjGl93qGz+7Kq6k7gIeALFYv1WbrlEHADo0O1fwLfE5HCCxfEpusb8qKqHwQeBu7OvdTH9F7GYNo\/DjwqIn\/scoU6F2\/J0v8DmCtuHQU+1+0aBedpTJnUz7tekSRR1a+q6ks6OSyo6kOquq3rbdsLVPWTqvrLbp158T9V\/VrX27G3qOqsqj6oqke69ejMX1T1y11vtzqS2cfXoaoCfAT4InAfYS6VGopXgCeAJ0TE5xqBY6M34vOo6h2YL8B9mDNex3nDgquYc9CfAv4gIs+P8bOD0Fvxg6jqFsxw8G7MIc4PYb4MIVjCjDJexEzIHAIOuZ6VmioTIb4MNXMEe4FZYEf22Dnwu2Au034Wc8rXYvbzLKYA4oiIvDH+NV9nnXXWWWcdb\/4PVR5Hf17XJlAAAAAASUVORK5CYII=",
+  "apkFileName": "Triangle",
+  "apkFilePackageName": "themed.qspanel.default.triangle",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileTriangle.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qspanel.default.triangle"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

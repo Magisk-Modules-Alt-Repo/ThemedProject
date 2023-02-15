@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAONSURBVHic7d3RcdpAFIXhs5m8xx2EDkIHpoPQgUkHLoEObFcQpwO7AtsVBFcQ3AGu4OYBZTKTOLHwYe9K8H8zvGQYtMJ\/JFYSSAIAAAAAAAAAAAAAAAAAAHCV1gP4lwhNJJ1Kmks66f551m5E41RK3b\/x+5ovvqsInUg6k7SQNG08HPQwmIAidCZpKWnSeizor3lAEZpKuhC7p1FqGlAXz51+f8bByLxrteAILSR9F\/GMWpOAuni+tlg29it9Gs9uK1ftaXxqQN00\/YeIJ03tgFJF6C5CscNjE6HrCC0i2s7S+ox3h9da9ni9ZeaY3iptFtYFsEsE3ySdl6JNpSFhDzKn8Rc9n\/esbTjXNQeD\/UgJqJt19T01MStFq5rjwf5kTePnPZ\/3hXjGpXpA3czrc4+n3rLbGp+MLVDfD87nVUeBKjIC6rP7ui1F6+ojwd5lBNTn8oz76qNAFc1Opv6BD84jlRHQpx7PIaCRygjo1fNeHG0er+ZXJI7IQ+sBDBEB9VQKl9y+ZCgfojFSBAQLAcFCQLAQECwEBAsBwUJAsBAQLAQECwHBwrmwNtZ6\/eTsKK7QrP611z7fjjyor98mGsJ7yy4MFgKChYBgISBYCAgWAoKFgGAZxIHEjF\/SQh1sgWAhIFgICBYCgoWAYCEgWAgIFgKCZRAHErmg7G2GcACWLRAsBAQLAcFCQLAQECwEBAsBwUJAsBAQLAQECwHBQkCwEBAsGWfjnyV9+N8ThnBW+UA91V5AxhaIe4G1U\/29zwiI21m2Q0Cw3NReQPWAStG9pKvay8FfrkqpvwVKu5Q0Qiv1u38qfI+laJqxoMxp\/ELSY+LyjtWjtu91irSAStGq+1\/B7qyeq1I0zdh1\/dLk2xARmkqaS5p2j48txnEAnrSdaa0k3WSGczQitIxQNHosW69\/bZzKgIWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgoWAYCEgWAgIFgKC5RgCWjdc9sH\/3MoxBNTyj9gy3hRHcbvtVj9kfgy3Mz+GLZAk3R7JMlFDhCYR2iT+MtkmQpPW6409itAiMaB56\/VFBRG6TIjnsvV6oqIIzSK0rhDOOkKz1uuX7eBnCS+J0Im2P8Y9lTSRdPrGl3rQ9jDBWtJ1KdrsZ4QAAAAAAAAAAAAAWvsJPqGJcBkImogAAAAASUVORK5CYII=",
+  "apkFileName": "DarkMaterialYellowA200",
+  "apkFilePackageName": "themed.accents.dark.MaterialYellowA200",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialYellowA200.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": true,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

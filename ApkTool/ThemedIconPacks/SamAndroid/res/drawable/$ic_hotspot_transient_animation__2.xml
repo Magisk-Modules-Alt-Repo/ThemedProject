@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    android:ordering="together"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__2__0"
+        android:duration="200"
+        android:startOffset="0"
+        android:valueFrom="1"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="strokeAlpha" />
+    <objectAnimator
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__2__1"
+        android:duration="17"
+        android:startOffset="200"
+        android:valueFrom="1"
+        android:valueTo="0.5"
+        android:valueType="floatType"
+        android:propertyName="strokeAlpha" />
+    <objectAnimator
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__2__2"
+        android:duration="583"
+        android:startOffset="217"
+        android:valueFrom="0.5"
+        android:valueTo="0.5"
+        android:valueType="floatType"
+        android:propertyName="strokeAlpha" />
+    <objectAnimator
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__2__3"
+        android:duration="17"
+        android:startOffset="800"
+        android:valueFrom="0.5"
+        android:valueTo="1"
+        android:valueType="floatType"
+        android:propertyName="strokeAlpha" />
+</set>

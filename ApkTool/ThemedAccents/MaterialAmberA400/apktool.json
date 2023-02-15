@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAP5SURBVHic7d3RURtHHIDxbyX7OeogdBC9MjIxriB0YKWCqAPjCmIqCKkgUAF4gMljoAPRgfUcm80DTCZmYjj4a3d10vd7ZG7YHfHN3eruuANJkiRJkiRJkiRJkiRJkqSo1HoC35L\/ZIsvvCaxR2Z09+PdppPqofSq7N\/4Rclf\/lT5hBEveEtiyhfGtz9sPCk9aGUCyue8BfaBrdZzUXfNA8oXjMn8ioenXmoa0F08J\/DvGkc9M2g1cL5gSuYvjKfXmgR0F89vLcbWclUP6D9rHq2BqgHlE0auedZL3UX0S\/7gKfFkFiSOSJxywzztcFpuco9M5fzxM1JdT9rlM\/ZJvHt4I96nHfajcyqtWkD5jF2e9lX9dz4zS2\/4VGpOiqu3B0od1z2ZBQNmacJh4RlpCaoEdPeta9xp4wG7acJl4SlpSeosojN7nbZL\/Gw8\/VI8oHzCCPipw6bHHrb6p\/weaNhx4TxkVngmKqB8QINOh6\/jtM28+Fy0dOUDSp1uz2h2fkcxzS6mfiW7cO6r8gFlfnh0m88G1Fc19kCPXrrwbHN\/Nb8jsTcSH1tPYRUZUEdp4i23\/2c1FtHqLQNSiAEpxIAUYkAKMSCFGJBCDEghBqQQA1KIASnEa2EtDJjDIxdnUz\/u0Cz+iLtl\/kenvrYKn62HMIUYkEIMSCEGpBADUogBKcSAFLISJxJX4Ulbeh73QAoxIIUYkEIMSCEGpBADUogBKcSAFLISJxK9oex5VuEErHsghRiQQgxIIQakEANSiAEpxIAUYkAKMSCFGJBCDEghBqQQA1JI+avxmQWJ7x7cZAWuKq+p69ID1Hjlpe8Ca6f4Z18+oBtfZ9lMhTdB1lgDGVArA47KD1FY2uGUxEHpcXRP4iBNyu+Bqt1Kms+5hA7vT9UyXKVXjGsMVO9rfGIKXFUbb3Nd3X3WVVS\/mT1f8IHML7XH3Qi3h61Z3SEbyBeMuWGPxBgYA9+3mMcauAYuyVwy4KjGmue+tf93mnzGPol3bQbnfdphv8nYlXgpQyEGpBADUogBKcSAFGJACjEghRiQQgxIIQakEANSiAEpxIAUYkAKMSCFGJBCDEghBqQQA1KIASnEgBRiQAoxIIUYkEIMSCEGpBADUogBKcSAFLL+AQ2YNxu7wkMuW1v\/gCo86vabhg3jrWTtnw8E7R5kvgmvM9+EPRDA8YaMWd1mBDRkRmZRbbzMgmHdZxW2shEBpW3mDCr+QTPTtL3+6x\/YkIAA0oTDKg88TxykH8s\/IX5VrP0i7758xi6JQ5b\/ZNhrMtO0s1mvdti4gADyCSNeMgXGJLbIvH7WL0p85PYxu3P+5jC94dNSJypJkiRJkiRJkiSpmX8ANMuwkvxvSg8AAAAASUVORK5CYII=",
+  "apkFileName": "MaterialAmberA400",
+  "apkFilePackageName": "themed.accents.MaterialAmberA400",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/output\/MaterialAmberA400.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAPrSURBVHic7d3RURtHHIDxb4+8hw5CB1YHpoPQgZUGkFSBcQUXuYGQCgIVGFdg6EB0YApAmwf0EiexhP\/aXd3p+83wwtywO+ibu9Xd6QSSJEmSJEmSJEmSJEmSJElRqfUE\/k\/uOaPjLYkL4PTll5y3ndXwpFnZ1\/inkn\/8tXLPKR3vgCkwefll0ylpi4MJKC95B1wBZ63not01Dyj3TDih9\/A0TE0Dyj0TOj6RN2scDU7XauD8kSkdX8B4hqxJQPkjUzJ\/tBhb+1U9oNwzIdPXHldlVA1o8zb9Ex62RqPuIvqEv161YM48kbghccczq7TgruDsvj+V5fYzUruetMtLroD3Wzb7kGZcRedUWrWAcs\/5K9+q\/0lmnuZ8LTYphdXbA3U7rnsyT3TM0yXXhWekPagS0OZd12S3jTlPl9wXnpL2pM4iOnOx03aJ39LCeIakeEC55xT4dYdNbz1sDU+NPdBuC+c188LzUAHlA+p2OnzdpgWr4nPR3tXYA22\/PSO1O7+jmGYXU\/\/h2YXzUNUI6M0O2xjQQNUIaOuli7TwbPNQNb8jcUA+t57AITKgHaWZt9z+l8NYRGuwDEghBqQQA1KIASnEgBRiQAoxIIUYkEIMSCEGpBCvhbWQWJG3XJxNw7hD04Aa2Hx4YBQfIPAQphADUogBKcSAFGJACjEghRiQQg7iPNAhPGlLP8Y9kEIMSCEGpBADUogBKcSAFGJACjEghRzEicTS3+s5VodwAtY9kEIMSCEGpBADUogBKcSAFGJACjEghRiQQgxIIQakEANSiAEppPzV+MwTiZ+\/u8kBXFUeqcfSA5TfAyW\/C6yh4v\/7Gocwv86ynREEtDagZtbclB6ieEBpwR2wLD2O\/mWZFuX3QNVuJc1L7tnt+1MV95BmTGoMVO9t\/Jop8FBtvOP1sPlfV1H9Zva85HdgVnvcI7FMM+Y1B2zyaYjcM6HjAphsfn5pMY8ReOTlndY9a25qrHm+NfqP0+QlV8D7RsN\/SDOuGo1dhZcyFGJACjEghRiQQgxIIQakEANSiAEpxIAUYkAKMSCFGJBCDEghBqQQA1KIASnEgBRiQAoxIIUYkEIMSCEGpBADUogBKcSAFGJACjEghRiQQgxIIeMPKLFqNvZ6\/E+oHX9Az01fxHbxVjL65wNBuweZH8PXmY9\/D\/Ti9kjGrO44AlozJ\/NUbbzME+u6zyps5SgCSgtWdBVf0Mw0Lca\/\/oEjCQggXXJNnQeeL9Oi\/BPiD8XoF3nfyj3ndFyz\/yfDPrJmunky\/9E4uoAAcs8pJ0zJTIAz4O0P\/qnPwD2JFc9cpwVf9zdLSZIkSZIkSZIkSS39DaRsq2YIYNWfAAAAAElFTkSuQmCC",
+  "apkFileName": "MaterialOrangeA400",
+  "apkFilePackageName": "themed.accents.MaterialOrangeA400",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialOrangeA400.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.accents.MaterialOrangeA400"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAPgSURBVHic7d3BbRtHGEDhN4FyDjuIOgg7sDqIDIQEdDJTQdSB6QoSVRDlFIA0QKmCyBVE7oDqwDpH9uQgwgchMVf+OTPc5fsAX4yFZiA9LEe7q1mQJEmSJEmSJEmSJEmSJEmKSq0n8H\/ynxzzLS\/4xCmJ0ea\/T5pOqofSpOzP+KjkF3+uvGLEP7wiMQPGZPY4ccEeBZTf8oqPzEkct56LumseUF4wJvEr2Y+nPmoa0Caev+DzGkc9802rgfOCGYm\/MZ5eaxLQJp7fW4yt3aoe0Oc1jwahakB5xcg1z7DUXUQ\/sOJ58dwDV2RuSKzThJtCM9sqL8nbjul60S4vmQOvtxz2Jk2YR+dUWrWA8pITnncl+Q+OOE8v+VBqToqreQbquu65J3OeplwWnY12okpAebG5NdHpYE7SlNuyM9Ku1FlEJ047HZf52Xj6pXhAecUI+LHDodd+bPVP+TPQx44L5wfOC89EBZQPKHf6+LpOZ6yLz0U7V2MN1OXxjGbXdxTT7GbqEy6ce6pGQD9sPeLIgPqqRkBbb114tbm\/mj+R2CPvWk9gHxlQR2niI7f\/ZV8W0eopA1KIASnEgBRiQAoxIIUYkEIMSCEGpBADUogBKcR7YS1k1qQtN2dzP57QNKAGNn88MIg\/IPAjTCEGpBADUogBKcSAFGJACjEghezFdaB92GlLX8czkEIMSCEGpBADUogBKcSAFGJACjEghezFhcTS7\/Ucqn24AOsZSCEGpBADUogBKcSAFGJACjEghRiQQgxIIQakEANSiAEpxIAUUuNu\/D3w3ZcO2Ie7ygN1V3qAGmcg3wXWTvHvfY2AfJ1lOwakgMxV6SGKB5Qm3JC4KD2OnkhcpGn5M1C1R0nzgltSh\/enKi7zPk0Z1xiq5q\/xMzLvK453mB6\/x7Naw1V\/mD2\/5Tcyv9Qe9yAkLtJPnNcdsoG8YEziFBhv\/n3fYh4DcMfjb1q3ZK5qrHmeGvyf0+Qlc+B1o+HfpAnzRmNX4a0MhRiQQgxIIQakEANSiAEpxIAUYkAKMSCFGJBCDEghBqQQA1KIASnEgBRiQAoxIIUYkEIMSCEGpBADUogBKcSAFGJACjEghRiQQgxIIQakEANSyPADyqybjZ2Gv0Pt8ANquc3wp4bxVjL4\/YGg3Ubmh\/A680M4AwFcH8iY1R1GQA+c8\/jKhVruN2MO3kEElM5Ykyv+QBOzdDb89Q8cSEAAacpllQ3PH3dKLb5D\/L4Y\/CLvqbzkBLhk9zvD3gGzNDmsVzscXEAAecWIB2Y8bjF8DLz4yi\/1jsQtmTVHXKaXfNjdLCVJkiRJkiRJkiS19C+BiqU7l2qW5wAAAABJRU5ErkJggg==",
+  "apkFileName": "MaterialAmberA700",
+  "apkFilePackageName": "themed.accents.MaterialAmberA700",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/output\/MaterialAmberA700.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

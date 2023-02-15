@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAYAAABV7bNHAAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAASJSURBVHic7Zz9UeMwEMWf3ADp4NIB7gA6gA7IVQAdQAdwFZCrAKiAUAFOBbgDTAXv\/lj57JFlWYnljyj5zWQgxjjyy+5qrV1bYaaQTAGcGZu3ABZKqXyscaixPshEC3AOYAkgBbDQr9Tj3zMAG\/3zY0zBBoNkSvKW5DsrcpKZ\/v1T\/\/yu\/f1Lby\/o5lMfexl63INakB7wLYBriKV8AMgBUO+Sws9ifCkAPAH4o5QqQhxwEIFIXqIS5gPiCmcIL0gbOYDfSqnNCJ\/lj3aj0oVeST7WXGcKHqfWBABAcqHFICWGfE2nSYN3kot9z623i1Hc6RkSY\/rwhmp2AoBL\/cogsWWJasYzp\/8uMojLZT3HuBsk73t8sznFDVe7fsMUV37Sx\/Dlm5JaDI8e4D6xJaNYXMixXJPczEYk7mc1Bcm7gcd16SnUMCJRAvF7x4fbyAYZUPs4fYQKKxLJJfdzqYdgg9h9zF1ChRGJYjn7TNurAOfZG5J3jjF+sUcKUIqzq+UUQb6ZgJB8cIz3vc+BXw5dnBJKStHG7hNIh+oHJQ7w3xsyx\/j9x04JytGIU6LPq23p5HOXA7kCm43rAc8rKHR7ht\/EQv\/M1P+gM4Hiam1W9OV7gCjFKWEfK6JcPEYrDtBpBG4rot\/lxHqkcxkMympA29Rvv6CmpOddZOyTfc4M2uOt3QA8rKfgAJWDKaG4m21daWHu6GM9Bxt3XNAetFfmTq5UnCQPvzjXAmXRzWRd38Encx50wWtKWs7\/u76Dz3VXVLHHhPbkcZnov191\/P\/fKOrfbl4t29JSoK4LzclWBkfEVoVNE3ZfhW+PwHoAu0BIIC0nLoI0AcwdbQRbY\/NlYtv5iGlYUYLukvH5MGOZJY3SdAJpFXExWRfaBDS08HEx2\/R3NPgIdAwzWMm98T7zmcWizqBLdLpjrgMVCaRNzsUVI1r\/cWDLB3MfC1qgW8QYsHlKnsAytVmIch3IoGFBSqlNgpYU+wi5MN5vAZnFfCzoFwN3hs0JvZRjhppNfQdXzbrO7MvL+0CpcJhcA1Ue5FvGiVIg2NfDNkAlkG+2HF1ORFmcN8\/rrXErA7sX7cnIqhqUks+35Tyb8Zbu1hAygmqqSUvsaZ+0tEjrmlCFtqzoUgHa64Ar+kxErKqNa\/3+afARjwybjam7eQiliSrKWpjFtaIrqe9Ni2sdQ9WmG9p7vse9A2jOsNnWfHKtEkvcIQ+o+XRQaG8rPMUdoFWc6JLevWB1H+1JnDpsv7ftJA7JG9ovQKdPeimtbJNUQCgJoM1qitnMVlqg4DfudnzmTYswpFxoz6tkRbkjOtODTvU3+8yAy7Ukr3QAtrkSKRfa87AaGzpIln2PL\/r3NaVp+4Y7Zq8kLyh3W784RCmFCbqoN8bTXx4A3EBq\/BsAP6ienpDVXnXKpyyUT1\/o4gPAWikVfJYapbVFx4EV5GSvIGIVkFJLDhHjB1U3W46qaWIBEdO0jC1kLX09ZIvgJL0\/OointVe9SauAiFOPWVu9rbS2TajnA3Uxm+YoLVppVSXZWEKcOHFiEv4BY+TF9AvAQQYAAAAASUVORK5CYII=",
+  "apkFileName": "Ink",
+  "apkFilePackageName": "themed.qstile.ink",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/QStileInk.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.qstile.ink"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}

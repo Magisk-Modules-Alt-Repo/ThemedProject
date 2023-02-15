@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="anim" name="ic_signal_wifi_transient_animation_0" id="0x7f010000" />
+    <public type="anim" name="ic_signal_wifi_transient_animation_1" id="0x7f010001" />
+    <public type="color" name="switch_track_material" id="0x7f020000" />
+    <public type="drawable" name="ic_ab_back_material" id="0x7f030000" />
+    <public type="drawable" name="ic_audio_ring_notif_mute" id="0x7f030001" />
+    <public type="drawable" name="ic_bluetooth_transient_animation" id="0x7f030002" />
+    <public type="drawable" name="ic_bluetooth_transient_animation_drawable" id="0x7f030003" />
+    <public type="drawable" name="ic_mode_edit" id="0x7f030004" />
+    <public type="drawable" name="ic_qs_airplane" id="0x7f030005" />
+    <public type="drawable" name="ic_qs_auto_rotate" id="0x7f030006" />
+    <public type="drawable" name="ic_qs_battery_saver" id="0x7f030007" />
+    <public type="drawable" name="ic_qs_bluetooth" id="0x7f030008" />
+    <public type="drawable" name="ic_qs_dnd" id="0x7f030009" />
+    <public type="drawable" name="ic_qs_flashlight" id="0x7f03000a" />
+    <public type="drawable" name="ic_qs_night_display_on" id="0x7f03000b" />
+    <public type="drawable" name="ic_qs_ui_mode_night" id="0x7f03000c" />
+    <public type="drawable" name="ic_settings_bluetooth" id="0x7f03000d" />
+    <public type="drawable" name="ic_signal_cellular_0_4_bar" id="0x7f03000e" />
+    <public type="drawable" name="ic_signal_cellular_0_5_bar" id="0x7f03000f" />
+    <public type="drawable" name="ic_signal_cellular_1_4_bar" id="0x7f030010" />
+    <public type="drawable" name="ic_signal_cellular_1_5_bar" id="0x7f030011" />
+    <public type="drawable" name="ic_signal_cellular_2_4_bar" id="0x7f030012" />
+    <public type="drawable" name="ic_signal_cellular_2_5_bar" id="0x7f030013" />
+    <public type="drawable" name="ic_signal_cellular_3_4_bar" id="0x7f030014" />
+    <public type="drawable" name="ic_signal_cellular_3_5_bar" id="0x7f030015" />
+    <public type="drawable" name="ic_signal_cellular_4_4_bar" id="0x7f030016" />
+    <public type="drawable" name="ic_signal_cellular_4_5_bar" id="0x7f030017" />
+    <public type="drawable" name="ic_signal_cellular_5_5_bar" id="0x7f030018" />
+    <public type="drawable" name="ic_signal_location" id="0x7f030019" />
+    <public type="drawable" name="ic_signal_wifi_transient_animation" id="0x7f03001a" />
+    <public type="drawable" name="ic_signal_wifi_transient_animation_drawable" id="0x7f03001b" />
+    <public type="drawable" name="ic_wifi_signal_0" id="0x7f03001c" />
+    <public type="drawable" name="ic_wifi_signal_1" id="0x7f03001d" />
+    <public type="drawable" name="ic_wifi_signal_2" id="0x7f03001e" />
+    <public type="drawable" name="ic_wifi_signal_3" id="0x7f03001f" />
+    <public type="drawable" name="ic_wifi_signal_4" id="0x7f030020" />
+    <public type="drawable" name="perm_group_location" id="0x7f030021" />
+    <public type="drawable" name="switch_track_material" id="0x7f030022" />
+</resources>

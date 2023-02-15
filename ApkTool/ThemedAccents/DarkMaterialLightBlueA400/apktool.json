@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "apkFileIcon": "iVBORw0KGgoAAAANSUhEUgAAAJAAAACQCAYAAADnRuK4AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAAPHSURBVHic7d3dcdNAGIXhsx7uSQekA9xB0kGiCmIqwB3EVABUQKhASQWECkg6cDogDeTjQmEYfq1wvLv6eZ9LRpPdwe9Ia0mWJAAAAAAAAAAAAAAAAAAAAFeqPYG\/auNQCx0pdCrp4PFfj2tOaZROU9bP+FnOP\/5kbRxooTOFVpKWitoTwi7DCegqzhTaKHRYeyror35AbSyV9FbB4WmM6gbUxfNJP9Y4GJlFtZHbWCnpi4hn1OoE1MXzocrY2KvyAX1f82ASygbUxgFrnmkpu4hOavW0eO4VupR0LWmrJl3nmVgPl7H7rFTfk3ZtbJR0\/s9tQm\/UpI09p8zKBdTGsZ5yJjn0UdJaTfqabU6wlQuo\/7rnXqG1mnSRdT7YizIBtdFdmugjdKwm3eSdEPal1CL6tNdWoVfEMy75A+q+eZ3s3C50xWFrfErsgfounNdZZ4EsSgS0+\/DV7X22BeaCPcsf0KLX7Rn1zu\/AUu9i6s9YOI9U\/oBCL3tsRUAjVWIPtPvSBWebR6v+HYljkfS59hSGiID6OknccvsHQ1lEY6QICBYCgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFa2F1bHdenA2N4g5NAqqh+\/HAJH5AwCEMFgKChYBgISBYCAgWAoKFgGAZxnmgATxpC\/+HPRAsBAQLAcFCQLAQECwEBAsBwUJAsAzjRGLm93pO1gBOwLIHgoWAYCEgWAgIFgKChYBgISBYCAgWAoKFgGAhIFgICBYCgqXE1fh7Sc\/\/ucUAripP1F3uAfLvgRLvAqsm8v\/f5w\/ogddZVjSBgHgfak2XuQfIH1CTrhV6n30c\/Cz0Xk3KvgcqdyvpVdz0fH8qXEm3OknLEkOV+xr\/oJWSbouNN1dJt3rQqtxwpbXxTkmvi487B91ha11yyDq\/hmhjKelU0lJJS0kvqsxj\/O4ev6rfSLosseb51fR\/TtPGRknnVcYOvVGTNlXGLoRLGbAQECwEBAsBwUJAsBAQLAQECwHBQkCwEBAsBAQLAcFCQLAQECwEBAsBwUJAsBAQLAQECwHBQkCwEBAsBAQLAcFCQLAQECwEBAsBwUJAsMwhoG3FsSf\/hNo5BFTzQ6wZbxHTfz6QVO9B5jN4nfkc9kBS6GoWY1Ywj4CktbpXLpRy\/zjm5M0joCZtFQU\/0NBKTZr8+keaS0CS1KSLIg88756Umv0J8UMx+UXeb9o4VtKF9v9k2LvHPc+sXu0wv4AkqY0DSStJSy10qNDRf\/2dpM960I26r+sXatLXPc4SAAAAAAAAAAAAQEXfAKGwrCvh6v\/QAAAAAElFTkSuQmCC",
+  "apkFileName": "DarkMaterialLightBlueA400",
+  "apkFilePackageName": "themed.accents.dark.MaterialLightBlueA400",
+  "apkFilePatch": "\/storage\/emulated\/0\/ApkRepacker\/input\/MaterialLightBlueA400.apk",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": "themed.accents.dark.MaterialLightBlueA400"
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}
