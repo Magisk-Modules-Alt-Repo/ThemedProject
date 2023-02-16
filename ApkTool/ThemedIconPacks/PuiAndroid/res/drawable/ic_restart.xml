@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vector
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:name="vector"
-    android:height="28.0dip"
     android:width="28.0dip"
+    android:height="28.0dip"
     android:viewportWidth="72.0"
-    android:viewportHeight="72.0"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    <group
-        android:name="group">
+    android:viewportHeight="72.0">
+    <group android:name="group">
         <path
             android:name="path_1"
             android:fillColor="#ff000000"

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultNinja",
+  "apkFileName": " Themed QsPanel DefaultNinja",
   "apkFilePackageName": "themed.qspanel.default.ninja",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

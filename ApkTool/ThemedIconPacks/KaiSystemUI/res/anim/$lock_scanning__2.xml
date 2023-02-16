@@ -1,54 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
-<set
-    android:ordering="together"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:aapt="http://schemas.android.com/aapt">
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:ordering="together">
     <objectAnimator
+        android:duration="67"
         android:interpolator="@anim/$$lock_scanning__2__0"
-        android:duration="67"
+        android:propertyName="scaleX"
         android:startOffset="0"
         android:valueFrom="1"
         android:valueTo="1"
-        android:valueType="floatType"
-        android:propertyName="scaleX" />
+        android:valueType="floatType" />
     <objectAnimator
+        android:duration="67"
         android:interpolator="@anim/$$lock_scanning__2__1"
-        android:duration="67"
+        android:propertyName="scaleY"
         android:startOffset="0"
         android:valueFrom="1"
         android:valueTo="1"
-        android:valueType="floatType"
-        android:propertyName="scaleY" />
+        android:valueType="floatType" />
     <objectAnimator
+        android:duration="117"
         android:interpolator="@anim/$$lock_scanning__2__2"
-        android:duration="117"
+        android:propertyName="scaleX"
         android:startOffset="67"
         android:valueFrom="1"
         android:valueTo="0.6"
-        android:valueType="floatType"
-        android:propertyName="scaleX" />
+        android:valueType="floatType" />
     <objectAnimator
+        android:duration="117"
         android:interpolator="@anim/$$lock_scanning__2__3"
-        android:duration="117"
+        android:propertyName="scaleY"
         android:startOffset="67"
         android:valueFrom="1"
         android:valueTo="0.6"
-        android:valueType="floatType"
-        android:propertyName="scaleY" />
+        android:valueType="floatType" />
     <objectAnimator
+        android:duration="333"
         android:interpolator="@anim/$$lock_scanning__2__4"
-        android:duration="333"
+        android:propertyName="scaleX"
         android:startOffset="183"
         android:valueFrom="0.6"
         android:valueTo="1"
-        android:valueType="floatType"
-        android:propertyName="scaleX" />
+        android:valueType="floatType" />
     <objectAnimator
-        android:interpolator="@anim/$$lock_scanning__2__5"
         android:duration="333"
+        android:interpolator="@anim/$$lock_scanning__2__5"
+        android:propertyName="scaleY"
         android:startOffset="183"
         android:valueFrom="0.6"
         android:valueTo="1"
-        android:valueType="floatType"
-        android:propertyName="scaleY" />
+        android:valueType="floatType" />
 </set>

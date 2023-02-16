@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialOrangeA700",
+  "apkFileName": "ThemedAccentsMaterialOrangeA700",
   "apkFilePackageName": "themed.accents.MaterialOrangeA700",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": true,

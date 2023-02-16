@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "Amoled Black",
+  "apkFileName": "Amoled Black",
   "apkFilePackageName": "themed.uibg.dark.amoled",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

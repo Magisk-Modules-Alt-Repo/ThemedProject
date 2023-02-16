@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarRoundedSystemUI",
+  "apkFileName": "ThemedIconPackRoundedSystemUI",
   "apkFilePackageName": "themed.iconpack.rounded.systemui",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

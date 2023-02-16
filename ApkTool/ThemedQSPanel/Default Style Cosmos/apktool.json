@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultCosmos",
+  "apkFileName": " Themed QsPanel DefaultCosmos",
   "apkFilePackageName": "themed.qspanel.default.cosmos",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

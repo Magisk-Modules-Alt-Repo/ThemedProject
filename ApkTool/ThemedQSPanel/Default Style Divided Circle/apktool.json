@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultDivided Circle",
+  "apkFileName": " Themed QsPanel DefaultDivided Circle",
   "apkFilePackageName": "themed.qspanel.default.dividedcircle",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

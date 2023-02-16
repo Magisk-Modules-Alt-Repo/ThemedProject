@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialOrangeA400",
+  "apkFileName": "ThemedAccentsMaterialOrangeA400",
   "apkFilePackageName": "themed.accents.MaterialOrangeA400",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

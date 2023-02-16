@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-   "apkFileName": " Themed QsPanel Clear Ninja",
+  "apkFileName": " Themed QsPanel Clear Ninja",
   "apkFilePackageName": "themed.qspanel.clear.ninja",
-   "isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarPuiLauncher",
+  "apkFileName": "ThemedIconPackPuiLauncher",
   "apkFilePackageName": "themed.iconpack.pui.launcher",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

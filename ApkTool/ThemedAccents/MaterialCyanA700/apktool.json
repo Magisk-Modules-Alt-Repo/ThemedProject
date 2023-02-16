@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialCyanA700",
+  "apkFileName": "ThemedAccentsMaterialCyanA700",
   "apkFilePackageName": "themed.accents.MaterialCyanA700",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

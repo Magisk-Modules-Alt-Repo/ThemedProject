@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel Clear Dotted Circle",
+  "apkFileName": " Themed QsPanel Clear Dotted Circle",
   "apkFilePackageName": "themed.qspanel.clear.dottedcircle",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

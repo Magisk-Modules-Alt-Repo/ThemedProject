@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultTriangle",
+  "apkFileName": " Themed QsPanel DefaultTriangle",
   "apkFilePackageName": "themed.qspanel.default.triangle",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarSamThemePicker",
+  "apkFileName": "ThemedIconPackSamThemePicker",
   "apkFilePackageName": "themed.iconpack.sam.themepicker",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

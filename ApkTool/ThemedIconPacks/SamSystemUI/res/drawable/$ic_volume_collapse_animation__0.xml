@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vector
-    android:height="24.0dip"
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
     android:width="24.0dip"
+    android:height="24.0dip"
     android:viewportWidth="24.0"
-    android:viewportHeight="24.0"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:aapt="http://schemas.android.com/aapt">
-    <group
-        android:name="_R_G">
+    android:viewportHeight="24.0">
+    <group android:name="_R_G">
         <group
             android:name="_R_G_L_0_G_T_1"
             android:translateX="12.0"
@@ -19,14 +17,13 @@
                 <path
                     android:name="_R_G_L_0_G_D_0_P_0"
                     android:pathData=" M5.28 14.94 C5.28,14.94 10.59,9.64 10.59,9.64 C11.37,8.86 12.63,8.86 13.41,9.64 C13.41,9.64 18.72,14.94 18.72,14.94 "
-                    android:strokeColor="#ff000000"
                     android:strokeWidth="2.0"
+                    android:strokeAlpha="1.0"
+                    android:strokeColor="#ff000000"
                     android:strokeLineCap="round"
-                    android:strokeLineJoin="round"
-                    android:strokeAlpha="1.0" />
+                    android:strokeLineJoin="round" />
             </group>
         </group>
     </group>
-    <group
-        android:name="time_group" />
+    <group android:name="time_group" />
 </vector>

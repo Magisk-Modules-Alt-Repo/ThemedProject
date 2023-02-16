@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-   "apkFileName": " Themed QsPanel Clear Oreo (Squircle Trim)",
+  "apkFileName": " Themed QsPanel Clear Oreo (Squircle Trim)",
   "apkFilePackageName": "themed.qspanel.clear.oreosquircletrim",
-   "isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

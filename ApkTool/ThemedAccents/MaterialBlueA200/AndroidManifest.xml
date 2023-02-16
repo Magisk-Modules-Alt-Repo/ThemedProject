@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest
-    android:versionCode="1"
-    android:versionName="1.0"
-    android:compileSdkVersion="29"
-    android:compileSdkVersionCodename="10"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="themed.accents.MaterialBlueA200"
     platformBuildVersionCode="29"
     platformBuildVersionName="10"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    android:compileSdkVersion="29"
+    android:compileSdkVersionCodename="10"
+    android:versionCode="1"
+    android:versionName="1.0"> 
     <overlay
+        android:category="android.theme.customization.accent_color"
         android:priority="1"
-        android:targetPackage="android"
-        android:category="android.theme.customization.accent_color" />
+        android:targetPackage="android" />
     <application
-        android:label="Themed Accent MaterialBlueA200"
-       
+        android:extractNativeLibs="false" 
         android:hasCode="false"
-        android:extractNativeLibs="false" />
+        android:label="Themed Accent MaterialBlueA200" />
 </manifest>

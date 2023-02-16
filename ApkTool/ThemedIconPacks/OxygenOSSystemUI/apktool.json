@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarOxygenOSSystemUI",
+  "apkFileName": "ThemedIconPackOxygenOSSystemUI",
   "apkFilePackageName": "themed.iconpack.oos.systemui",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

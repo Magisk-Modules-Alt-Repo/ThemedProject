@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed Qstile Cookie",
+  "apkFileName": " Themed Qstile Cookie",
   "apkFilePackageName": "themed.qstile.cookie",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

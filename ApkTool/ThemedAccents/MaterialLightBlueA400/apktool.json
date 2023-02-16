@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialLightBlueA400",
+  "apkFileName": "ThemedAccentsMaterialLightBlueA400",
   "apkFilePackageName": "themed.accents.MaterialLightBlueA400",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

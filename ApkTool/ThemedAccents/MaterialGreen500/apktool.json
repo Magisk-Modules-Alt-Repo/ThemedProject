@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialGreen500",
+  "apkFileName": "ThemedAccentsMaterialGreen500",
   "apkFilePackageName": "themed.accents.MaterialGreen500",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

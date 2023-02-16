@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialLimeA200",
+  "apkFileName": "ThemedAccentsMaterialLimeA200",
   "apkFilePackageName": "themed.accents.MaterialLimeA200",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": true,

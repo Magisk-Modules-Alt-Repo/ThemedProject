@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest
-    android:versionCode="1"
-    android:versionName="1.0"
-    android:compileSdkVersion="26"
-    android:compileSdkVersionCodename="8"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="themed.qspanel.clear.dottedcircle"
     platformBuildVersionCode="26"
     platformBuildVersionName="8"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    android:compileSdkVersion="26"
+    android:compileSdkVersionCodename="8"
+    android:versionCode="1"
+    android:versionName="1.0"> 
     <overlay
+        android:category="themed.qspanel"
         android:priority="1"
-        android:targetPackage="com.android.systemui" 
-android:category="themed.qspanel" />
+        android:targetPackage="com.android.systemui" />
     <application
-        android:label="Themed QsPanel Clear Dotted Circle"
-        android:icon="@drawable/ic_qs_circle"
+        android:extractNativeLibs="false"
         android:hasCode="false"
-        android:extractNativeLibs="false" />
+        android:icon="@drawable/ic_qs_circle"
+        android:label="Themed QsPanel Clear Dotted Circle" />
 </manifest>

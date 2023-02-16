@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultMountain",
+  "apkFileName": " Themed QsPanel DefaultMountain",
   "apkFilePackageName": "themed.qspanel.default.mountain",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

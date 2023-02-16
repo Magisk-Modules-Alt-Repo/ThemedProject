@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed Qstile Squaremedo",
+  "apkFileName": " Themed Qstile Squaremedo",
   "apkFilePackageName": "themed.qstile.squaremedo",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

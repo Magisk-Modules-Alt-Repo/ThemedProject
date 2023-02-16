@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsDarkMaterialDeepPurpleA400",
+  "apkFileName": "ThemedAccentsDarkMaterialDeepPurpleA400",
   "apkFilePackageName": "themed.accents.dark.MaterialDeepPurpleA400",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

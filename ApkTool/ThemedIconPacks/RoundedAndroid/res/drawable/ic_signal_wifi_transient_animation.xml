@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<animated-vector
-    android:drawable="@android:drawable/jog_tab_bar_left_answer"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@android:drawable/jog_tab_bar_left_answer">
     <target
         android:name="_R_G_L_4_G"
         android:animation="@android:anim/$$lock_scanning__6__0" />

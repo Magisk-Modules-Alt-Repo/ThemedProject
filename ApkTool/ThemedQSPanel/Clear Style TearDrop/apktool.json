@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel Clear TearDrop",
+  "apkFileName": " Themed QsPanel Clear TearDrop",
   "apkFilePackageName": "themed.qspanel.clear.teardrop",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themedcolumnslandscape1",
+  "apkFileName": " Themed QsGrid Columns Landscape 1",
   "apkFilePackageName": "themed.qsgrid.columnslandscape1",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

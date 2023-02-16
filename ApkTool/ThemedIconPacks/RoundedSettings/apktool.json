@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarRoundedSettings",
+  "apkFileName": "ThemedIconPackRoundedSettings",
   "apkFilePackageName": "themed.iconpack.rounded.settings",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

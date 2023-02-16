@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed Qstile Squircle with trim",
+  "apkFileName": " Themed Qstile Squircle with trim",
   "apkFilePackageName": "themed.qstile.squircletrim",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

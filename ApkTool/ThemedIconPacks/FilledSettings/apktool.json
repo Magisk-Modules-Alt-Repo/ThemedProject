@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarFilledSettings",
+  "apkFileName": "ThemedIconPackFilledSettings",
   "apkFilePackageName": "themed.iconpack.filled.settings",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

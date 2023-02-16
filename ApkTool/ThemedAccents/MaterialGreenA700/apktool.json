@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialGreenA700",
+  "apkFileName": "ThemedAccentsMaterialGreenA700",
   "apkFilePackageName": "themed.accents.MaterialGreenA700",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

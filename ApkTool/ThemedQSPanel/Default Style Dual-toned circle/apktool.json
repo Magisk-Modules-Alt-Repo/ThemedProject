@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultDual-toned circle",
+  "apkFileName": " Themed QsPanel DefaultDual-toned circle",
   "apkFilePackageName": "themed.qspanel.default.dualtonecircletrim",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel Clear Ink",
+  "apkFileName": " Themed QsPanel Clear Ink",
   "apkFilePackageName": "themed.qspanel.clear.ink",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialDeepPurpleA200",
+  "apkFileName": "ThemedAccentsMaterialDeepPurpleA200",
   "apkFilePackageName": "themed.accents.MaterialDeepPurpleA200",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

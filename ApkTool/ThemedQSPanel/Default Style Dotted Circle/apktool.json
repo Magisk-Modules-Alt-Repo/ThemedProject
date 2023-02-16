@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultDotted Circle",
+  "apkFileName": " Themed QsPanel DefaultDotted Circle",
   "apkFilePackageName": "themed.qspanel.default.dottedcircle",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

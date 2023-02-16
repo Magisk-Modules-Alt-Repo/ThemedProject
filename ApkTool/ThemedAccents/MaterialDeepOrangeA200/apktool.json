@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialDeepOrangeA200",
+  "apkFileName": "ThemedAccentsMaterialDeepOrangeA200",
   "apkFilePackageName": "themed.accents.MaterialDeepOrangeA200",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

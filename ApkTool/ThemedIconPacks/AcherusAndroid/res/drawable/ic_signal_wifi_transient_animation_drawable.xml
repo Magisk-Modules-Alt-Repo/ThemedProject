@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vector
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:name="ic_signal_wifi_transient"
-    android:height="48.0dip"
     android:width="48.0dip"
+    android:height="48.0dip"
     android:viewportWidth="48.0"
-    android:viewportHeight="48.0"
-    xmlns:android="http://schemas.android.com/apk/res/android">
+    android:viewportHeight="48.0">
     <group
         android:name="ic_signal_wifi_4_bar_48px_2"
         android:translateX="24.25"
@@ -20,9 +19,9 @@
                 android:translateY="18.7115">
                 <path
                     android:name="wifi"
+                    android:fillAlpha="0.5"
                     android:fillColor="#ffffffff"
-                    android:pathData="M0.017 18.44l23.214-28.767c-0.9-0.676-9.829-8.135-23.232-8.135-13.403 0-22.33 7.46-23.23 8.135l23.214 28.766 0.016 0.023L0 18.46l0.001 0.002 0.016-0.023z"
-                    android:fillAlpha="0.5" />
+                    android:pathData="M0.017 18.44l23.214-28.767c-0.9-0.676-9.829-8.135-23.232-8.135-13.403 0-22.33 7.46-23.23 8.135l23.214 28.766 0.016 0.023L0 18.46l0.001 0.002 0.016-0.023z" />
             </group>
             <group
                 android:name="wifi_0"
@@ -30,9 +29,9 @@
                 android:translateY="18.7115">
                 <path
                     android:name="wifi_1"
+                    android:fillAlpha="0.0"
                     android:fillColor="#ffffffff"
-                    android:pathData="M0.017 18.44l23.214-28.767c-0.9-0.676-9.829-8.135-23.232-8.135-13.403 0-22.33 7.46-23.23 8.135l23.214 28.766 0.016 0.023L0 18.46l0.001 0.002 0.016-0.023z"
-                    android:fillAlpha="0.0" />
+                    android:pathData="M0.017 18.44l23.214-28.767c-0.9-0.676-9.829-8.135-23.232-8.135-13.403 0-22.33 7.46-23.23 8.135l23.214 28.766 0.016 0.023L0 18.46l0.001 0.002 0.016-0.023z" />
             </group>
         </group>
     </group>

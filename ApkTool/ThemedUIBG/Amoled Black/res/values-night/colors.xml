@@ -21,8 +21,6 @@
     <color name="primary_material_settings">@color/black</color>
     <color name="quaternary_material_settings">#ff202126</color>
     <color name="secondary_material_settings">#ff0f1012</color>
-    <color name="tertiary_material_settings">#ff151618</color>
-
-    <color name="black">#ff000000</color>
-
+    <color name="tertiary_material_settings">#ff151618</color> 
+    <color name="black">#ff000000</color> 
 </resources>

@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel Clear Default",
+  "apkFileName": " Themed QsPanel Clear Default",
   "apkFilePackageName": "themed.qspanel.clear.clear",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

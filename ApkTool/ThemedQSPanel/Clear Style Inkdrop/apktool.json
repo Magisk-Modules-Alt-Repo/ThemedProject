@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-   "apkFileName": " Themed QsPanel Clear Inkdrop",
+  "apkFileName": " Themed QsPanel Clear Inkdrop",
   "apkFilePackageName": "themed.qspanel.clear.inkdrop",
-   "isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

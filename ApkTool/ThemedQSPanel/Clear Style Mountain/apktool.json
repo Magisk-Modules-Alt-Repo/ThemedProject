@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-   "apkFileName": " Themed QsPanel Clear Mountain",
+  "apkFileName": " Themed QsPanel Clear Mountain",
   "apkFilePackageName": "themed.qspanel.clear.mountain",
-   "isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

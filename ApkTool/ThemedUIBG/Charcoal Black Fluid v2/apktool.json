@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "Charcoal Black Fluid v2",
+  "apkFileName": "Charcoal Black Fluid v2",
   "apkFilePackageName": "themed.uibg.dark.charcoalf2",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

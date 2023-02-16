@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <public type="drawable" name="ic_sysbar_back" id="0x7f010000" />
-    <public type="drawable" name="ic_sysbar_home" id="0x7f010001" />
-    <public type="drawable" name="ic_sysbar_recent" id="0x7f010002" />
+    <public name="ic_sysbar_back" id="0x7f010000" type="drawable" />
+    <public name="ic_sysbar_home" id="0x7f010001" type="drawable" />
+    <public name="ic_sysbar_recent" id="0x7f010002" type="drawable" />
 </resources>

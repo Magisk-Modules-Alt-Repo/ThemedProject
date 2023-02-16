@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsDarkMaterialYellowA200",
+  "apkFileName": "ThemedAccentsDarkMaterialYellowA200",
   "apkFilePackageName": "themed.accents.dark.MaterialYellowA200",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": true,

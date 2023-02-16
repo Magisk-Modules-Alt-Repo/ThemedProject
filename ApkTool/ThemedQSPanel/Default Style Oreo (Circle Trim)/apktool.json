@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed QsPanel DefaultOreo (Circle Trim)",
+  "apkFileName": " Themed QsPanel DefaultOreo (Circle Trim)",
   "apkFilePackageName": "themed.qspanel.default.oreocircletrim",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

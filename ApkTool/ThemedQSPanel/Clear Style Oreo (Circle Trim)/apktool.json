@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-   "apkFileName": " Themed QsPanel Clear Oreo (Circle Trim)",
+  "apkFileName": " Themed QsPanel Clear Oreo (Circle Trim)",
   "apkFilePackageName": "themed.qspanel.clear.oreocircletrim",
-   "isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

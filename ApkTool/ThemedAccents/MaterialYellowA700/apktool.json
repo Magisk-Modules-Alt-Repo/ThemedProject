@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedAccentsMaterialYellowA700",
+  "apkFileName": "ThemedAccentsMaterialYellowA700",
   "apkFilePackageName": "themed.accents.MaterialYellowA700",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": true,

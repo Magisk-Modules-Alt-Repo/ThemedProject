@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedCorners36dp",
+  "apkFileName": "ThemedCorners36dp",
   "apkFilePackageName": "themed.roundedcorners36dp",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,
@@ -17,7 +17,7 @@
   "UsesFramework": {
     "ids": [
       1
-    ],
+    ]
   },
   "PackageInfo": {
     "forcedPackageId": "127",

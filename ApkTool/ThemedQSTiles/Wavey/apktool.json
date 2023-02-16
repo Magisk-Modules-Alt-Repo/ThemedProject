@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed Qstile Wavey",
+  "apkFileName": " Themed Qstile Wavey",
   "apkFilePackageName": "themed.qstile.wavey",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

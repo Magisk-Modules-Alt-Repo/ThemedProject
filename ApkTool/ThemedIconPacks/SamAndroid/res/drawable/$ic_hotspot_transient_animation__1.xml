@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<set
-    android:ordering="together"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:aapt="http://schemas.android.com/aapt">
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:ordering="together">
     <objectAnimator
-        android:interpolator="@drawable/$$ic_hotspot_transient_animation__1__0"
         android:duration="17"
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__1__0"
+        android:propertyName="fillAlpha"
         android:startOffset="0"
         android:valueFrom="1"
         android:valueTo="0.5"
-        android:valueType="floatType"
-        android:propertyName="fillAlpha" />
+        android:valueType="floatType" />
     <objectAnimator
-        android:interpolator="@drawable/$$ic_hotspot_transient_animation__1__1"
         android:duration="583"
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__1__1"
+        android:propertyName="fillAlpha"
         android:startOffset="17"
         android:valueFrom="0.5"
         android:valueTo="0.5"
-        android:valueType="floatType"
-        android:propertyName="fillAlpha" />
+        android:valueType="floatType" />
     <objectAnimator
-        android:interpolator="@drawable/$$ic_hotspot_transient_animation__1__2"
         android:duration="17"
+        android:interpolator="@drawable/$$ic_hotspot_transient_animation__1__2"
+        android:propertyName="fillAlpha"
         android:startOffset="600"
         android:valueFrom="0.5"
         android:valueTo="1"
-        android:valueType="floatType"
-        android:propertyName="fillAlpha" />
+        android:valueType="floatType" />
 </set>

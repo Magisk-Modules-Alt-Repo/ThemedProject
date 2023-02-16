@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": " Themed Qstile Circle with Dual Tone",
+  "apkFileName": " Themed Qstile Circle with Dual Tone",
   "apkFilePackageName": "themed.qstile.dualtonecircle",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,

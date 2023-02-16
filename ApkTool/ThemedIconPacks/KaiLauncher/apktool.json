@@ -1,8 +1,8 @@
 {
   "version": "2.4.1",
-"apkFileName": "ThemedNavbarKaiLauncher",
+  "apkFileName": "ThemedIconPackKaiLauncher",
   "apkFilePackageName": "themed.iconpack.kai.launcher",
-"isFrameworkApk": false,
+  "isFrameworkApk": false,
   "compressionType": false,
   "sharedLibrary": false,
   "sparseResources": false,
