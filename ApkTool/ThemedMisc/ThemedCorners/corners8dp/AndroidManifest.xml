@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="themed.roundedcorners8"
+    platformBuildVersionCode="26"
+    platformBuildVersionName="8"
+    android:compileSdkVersion="26"
+    android:compileSdkVersionCodename="8"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <overlay
+        android:category="themed.roundedcorners"
+        android:priority="1"
+        android:targetPackage="android" />
+    <application
+        android:extractNativeLibs="false"
+        android:hasCode="false"
+        android:label="Themed Corners 8 " />
+</manifest>
