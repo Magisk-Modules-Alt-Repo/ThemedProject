@@ -1,0 +1,31 @@
+{
+  "version": "2.4.1",
+  "apkFileName": "Themedqstileheight80",
+  "apkFilePackageName": "themed.qstileheight80",
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sharedLibrary": false,
+  "sparseResources": false,
+  "sdkInfo": {
+    "minSdkVersion": "26",
+    "targetSdkVersion": "26"
+  },
+  "unknownFiles": {},
+  "doNotCompress": [
+    "resources.arsc"
+  ],
+  "UsesFramework": {
+    "ids": [
+      1
+    ],
+    "tag": null
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "VersionInfo": {
+    "versionCode": "1",
+    "versionName": "1.0"
+  }
+}
