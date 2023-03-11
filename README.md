@@ -1,8 +1,5 @@
 # ThemedProject
-[Themed Manager](https://github.com/Osanosa/ThemedManager)
+![latest release badge](https://img.shields.io/github/v/release/Osanosa/ThemedProject?sort=semver)
+![total-download-count](https://img.shields.io/github/downloads/Osanosa/ThemedProject/total?color=brightgreen)
 
-[Themed Accents](https://github.com/Osanosa/ThemedAccents)
-
-[Themed UIBG](https://github.com/Osanosa/ThemedUIBG)
-
-[Themed QSTiles](https://github.com/Osanosa/ThemedQSTiles)
+A8+, Magisk needed
