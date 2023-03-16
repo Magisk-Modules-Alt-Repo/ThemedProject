@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <public name="config_useMaskForQs" id="0x7f010000" type="bool" />
-    <public name="ic_qs_circle" id="0x7f020000" type="drawable" />
-</resources>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="config_signalCutoutHeightFraction" type="dimen">11.0</item>
-    <item name="config_signalCutoutWidthFraction" type="dimen">11.0</item>
-</resources>

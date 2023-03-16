@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="config_qs_rows_portrait">7</integer>
-    <integer name="quick_settings_max_rows">7</integer>
-</resources>
