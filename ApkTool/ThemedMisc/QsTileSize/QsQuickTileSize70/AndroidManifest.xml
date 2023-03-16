@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="themed.qstileheight80"
+    package="themed.qsquicktilesize70"
     platformBuildVersionCode="26"
     platformBuildVersionName="8"
     android:compileSdkVersion="26"
@@ -9,11 +9,11 @@
     android:versionName="1.0">
 
     <overlay
-        android:category="themed.qstileheight"
+        android:category="themed.qsquicktilesize"
         android:priority="1"
-        android:targetPackage="android" />
+        android:targetPackage="com.android.systemui" />
     <application
         android:extractNativeLibs="false"
         android:hasCode="false"
-        android:label="Themed qstileheight 80dp" />
+        android:label="Themed QsQuickTileSize 70dp" />
 </manifest>
