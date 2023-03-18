@@ -2,7 +2,11 @@
 ![latest release badge](https://img.shields.io/github/v/release/Osanosa/ThemedProject?sort=semver)
 ![total-download-count](https://img.shields.io/github/downloads/Osanosa/ThemedProject/total?color=brightgreen)
 
-A8+, Magisk needed
+A8+, heavily customized roms may be not supported.
+
+https://github.com/Osanosa/ThemedSource
+
+https://github.com/Osanosa/ThemedManager
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80209416/224477121-546d3b72-6da4-48b3-a3bf-1147beeb04a0.jpg" width="130" />
