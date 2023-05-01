@@ -1,5 +1,8 @@
-This is open source software with following terms:
-- You're free to scroll my code and reimplement parts of its logic in your project
-- You're free to use pre-built packages (apks) in your personal, noncommercial projects: e.g. custom roms
-- I don't want you to reshare/reuse/fork my code as yours with or without changes, if you want to add any changes please create a commit and I'll happily review it
-- If you want to use it in a commercial/closed source project (official software or else) please contact me for further licensing
+This is open source software, and by using it you agree to the following terms:
+
+- You are free to review the code and use parts of it in your own projects.
+- You may use pre-built packages (apks) for personal, non-commercial use such as custom ROMs.
+- You are not allowed to re-share, reuse, or fork my code as your own, with or without changes. If you wish to make any changes, please create a commit and I will review it.
+- If you wish to use this software for commercial or closed source projects, please contact me for further licensing.
+
+Thank you for respecting these terms.

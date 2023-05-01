@@ -1,7 +1,14 @@
  #!/sbin/sh
 #
-	echo "DON'T FORGET TO DELETE PREVIOUSLY INSTALLED THEMED PROJECT MODULES"
-	echo "НЕ ЗАБУДЬТЕ УДАЛИТЬ РАНЕЕ УСТАНОВЛЕННЫЕ ОВЕРЛЕИ THEMED PROJECT"
+	echo "
+	DON'T FORGET TO DELETE OTHER 
+	PREVIOUSLY INSTALLED 
+	THEMED PROJECT MODULES"
+	echo "
+	НЕ ЗАБУДЬТЕ УДАЛИТЬ ДРУГИЕ 
+	РАНЕЕ УСТАНОВЛЕННЫЕ 
+	МОДУЛИ THEMED PROJECT
+	"
 	
   sleep 1
   if [ -d  /system/product/overlay ]; then
