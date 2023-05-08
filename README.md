@@ -5,15 +5,15 @@
 A8+, Magisk needed
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80209416/224477121-546d3b72-6da4-48b3-a3bf-1147beeb04a0.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477119-fb14d617-ad3c-47ed-9ab8-94753ce88d9e.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477118-2e0324bc-d5f6-4dc4-bce3-7ccbe8308666.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477117-8c917b6d-ab17-4260-8dd5-2eb71f948da2.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477116-cfc46439-332e-4a2e-afda-97889d301872.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477115-1786d40e-67eb-4747-ae0c-133ae9878c31.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477125-6d3be706-dbdb-4438-8d3a-144feac7f39d.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477124-9ff39c65-7cb6-4949-a489-31f57f6145db.jpg" width="130" />
-<img src="https://user-images.githubusercontent.com/80209416/224477123-8bdae593-d614-4403-bc99-7256b6f3979b.jpg" width="130" />
+
+![Screenshot_20230509-002738111](https://user-images.githubusercontent.com/80209416/236940526-752c22a2-936d-4a4d-9f03-ed01345b2217.jpg)
+![Screenshot_20230509-002749413](https://user-images.githubusercontent.com/80209416/236940530-598603ea-0b8c-4ec6-8a99-02fd5bb8008c.jpg)
+![Screenshot_20230509-002754020](https://user-images.githubusercontent.com/80209416/236940531-2be2d446-ae46-4d7e-b452-941f6d17fdd7.jpg)
+![Screenshot_20230509-003312369](https://user-images.githubusercontent.com/80209416/236940532-d8a4e334-6aaf-4fe6-9b8e-3c8f0a30f59d.jpg)
+![Screenshot_20230509-002509372](https://user-images.githubusercontent.com/80209416/236940533-28376b1a-5b31-4d0b-8b44-376da9f38b87.jpg)
+![Screenshot_20230509-002520721](https://user-images.githubusercontent.com/80209416/236940535-e9febd98-20a5-4662-be07-e675b73f4a60.jpg)
+![Screenshot_20230509-002531246](https://user-images.githubusercontent.com/80209416/236940538-35b0b782-86cc-4a19-bc82-b3de2ef46b1c.jpg)
+![Screenshot_20230509-002544266](https://user-images.githubusercontent.com/80209416/236940540-c39433c1-4f02-43b8-aa14-5b4e8fc04a0a.jpg)
 
 
 </p>
