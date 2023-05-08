@@ -2,17 +2,21 @@
 ![latest release badge](https://img.shields.io/github/v/release/Osanosa/ThemedProject?sort=semver)
 ![total-download-count](https://img.shields.io/github/downloads/Osanosa/ThemedProject/total?color=brightgreen)
 
-[b]Q: What is Themed Manager?[/b]
+A8+
+**FAQ Section:**
+
+**Q: What is Themed Manager?**
 Themed Manager is a root overlays manager that allows you to apply Resource Runtime Overlays (RROs) on your rooted Android device. It enables custom theming of system-related packages, enhancing the visual appearance of your Android device.
 
-[b]Q: What are Resource Runtime Overlays (RROs)?[/b]
+**Q: What are Resource Runtime Overlays (RROs)?**
 RROs are APK files without any code, containing only resources. Themed Manager utilizes RROs to overlay and customize system-related packages, enhancing the visual appearance of your Android device.
 
-[b]Q: Are there any limitations or precautions when using Themed Manager?[/b]
+**Q: Are there any limitations or precautions when using Themed Manager?**
 Themed Manager is primarily designed for system-related packages on AOSP/Lineage-based software. While it may work on heavily customized ROMs, full compatibility cannot be guaranteed. It is highly recommended to create backups and install a bootloop protector module before applying overlays to avoid potential issues.
 
-[b]Q: How can I get support or assistance for Themed Manager?[/b]
+**Q: How can I get support or assistance for Themed Manager?**
 For support or assistance with Themed Manager, you can join the Telegram support group or seek help on relevant forums like 4PDA or XDA.
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/80209416/236940533-28376b1a-5b31-4d0b-8b44-376da9f38b87.jpg" width="130">
