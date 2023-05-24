@@ -1,16 +1,19 @@
  #!/sbin/sh
 #
 	echo "
-	DON'T FORGET TO DELETE OTHER 
-	PREVIOUSLY INSTALLED 
-	THEMED PROJECT MODULES"
+    IN CASE OF BOOTLOOP 
+    AFTER VENDOR LOGO SHOWS 
+    PRESS/HOLD VOL+ BUTTON TO DISABLE 
+    ALL THEMED OVERLAYS"
 	echo "
-	НЕ ЗАБУДЬТЕ УДАЛИТЬ ДРУГИЕ 
-	РАНЕЕ УСТАНОВЛЕННЫЕ 
-	МОДУЛИ THEMED PROJECT
-	"
+	   В СЛУЧАЕ БУТЛУПА
+    ПОСЛЕ ПОКАЗА ЛОГОТИПА ВЕНДОРА
+    НАЖМИТЕ/УДЕРЖИВАЙТЕ КНОПКУ ГРОМКОСТЬ+, 
+    ЧТОБЫ ОТКЛЮЧИТЬ
+    ВСЕ ОВЕРЛЕИ THEMED
+    "
 	
-  sleep 1
+  pm uninstall pro.themed.manager
   if [ -d  /system/product/overlay ]; then
     echo "- placing overlays in product"
     mv $MODPATH/system/folder $MODPATH/system/product
