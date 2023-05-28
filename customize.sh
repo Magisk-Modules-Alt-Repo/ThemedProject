@@ -13,7 +13,8 @@
     ВСЕ ОВЕРЛЕИ THEMED
     "
 	
-  pm uninstall pro.themed.manager
+  pm uninstall pro.themed.manager > /dev/null 2>&1
+  
   if [ -d  /system/product/overlay ]; then
     echo "- placing overlays in product"
     mv $MODPATH/system/folder $MODPATH/system/product
