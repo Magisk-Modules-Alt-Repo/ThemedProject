@@ -12,8 +12,9 @@
     ЧТОБЫ ОТКЛЮЧИТЬ
     ВСЕ ОВЕРЛЕИ THEMED
     "
-	
-  pm uninstall pro.themed.manager > /dev/null 2>&1
+    echo uninstalling app updates
+  pm uninstall pro.themed.manager 
+  echo new version will be installed on boot if not found
   
   if [ -d  /system/product/overlay ]; then
     echo "- placing overlays in product"
