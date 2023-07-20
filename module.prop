@@ -1,7 +1,7 @@
 id=ThemedProject
 name=Themed Project
-version=23.07.05
-versionCode=230705
+version=23.07.18
+versionCode=230718
 author=Osanosa
 description=themed.pro
 updateJson=https://raw.githubusercontent.com/Osanosa/ThemedProject/main/update.json

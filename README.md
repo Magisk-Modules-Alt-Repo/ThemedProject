@@ -4,13 +4,16 @@
 
 A8+, Magisk needed
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80209416/224477121-546d3b72-6da4-48b3-a3bf-1147beeb04a0.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477119-fb14d617-ad3c-47ed-9ab8-94753ce88d9e.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477118-2e0324bc-d5f6-4dc4-bce3-7ccbe8308666.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477117-8c917b6d-ab17-4260-8dd5-2eb71f948da2.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477116-cfc46439-332e-4a2e-afda-97889d301872.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477115-1786d40e-67eb-4747-ae0c-133ae9878c31.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477125-6d3be706-dbdb-4438-8d3a-144feac7f39d.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477124-9ff39c65-7cb6-4949-a489-31f57f6145db.jpg" width="130" />
+<img src="https://user-images.githubusercontent.com/80209416/224477123-8bdae593-d614-4403-bc99-7256b6f3979b.jpg" width="130" />
 
-<div style="display:flex;">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/354f56c4-16a2-4cc5-b794-eb8642fa5084" alt="Screenshot_20230707-111732" width="120">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/2ba95fd4-807e-46d2-8b27-8ff59c4f5cf4" alt="Screenshot_20230707-111738" width="120">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/9055b1f0-ea17-4a6d-9966-bcf924fae010" alt="Screenshot_20230707-111742" width="120">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/a8ded42a-e52a-4521-b15e-cc878cace8ac" alt="Screenshot_20230707-111801" width="120">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/99f55e3c-980e-44e6-be33-be4f25896889" alt="Screenshot_20230707-111806" width="120">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/6ef294ee-0a3d-44f6-b57d-7fe8676f530a" alt="Screenshot_20230707-111816" width="120">
-  <img src="https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/assets/80209416/5d9d537d-c256-4302-a19e-0f3ed8cb7bd5" alt="Screenshot_20230707-111820" width="120">
-</div>
+
+</p>
