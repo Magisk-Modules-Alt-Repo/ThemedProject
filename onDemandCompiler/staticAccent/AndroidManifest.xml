@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
     android:versionCode="1"
-    android:versionName="1.0"
+    android:versionName="1"
     android:compileSdkVersion="30"
     android:compileSdkVersionCodename="11"
     package="themed.accent.generic"
-    platformBuildVersionCode="29"
-    platformBuildVersionName="10"
+    platformBuildVersionCode="26"
+    platformBuildVersionName="8"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <overlay
         android:priority="1"

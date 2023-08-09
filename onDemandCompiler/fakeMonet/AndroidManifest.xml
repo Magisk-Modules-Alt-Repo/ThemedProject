@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
     android:versionCode="1"
-    android:versionName="1.0"
+    android:versionName="1"
     android:compileSdkVersion="30"
     android:compileSdkVersionCodename="11"
     package="themed.fakemonet.generic"

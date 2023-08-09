@@ -1,21 +1,17 @@
  #!/sbin/sh
 #
 	echo "
-    IN CASE OF BOOTLOOP 
-    AFTER VENDOR LOGO SHOWS 
-    PRESS/HOLD VOL+ BUTTON TO DISABLE 
-    ALL THEMED OVERLAYS"
+    DON'T FORGET TO INSTALL
+    BOOTLOOP PROTECTOR MODULE"
 	echo "
-	   В СЛУЧАЕ БУТЛУПА
-    ПОСЛЕ ПОКАЗА ЛОГОТИПА ВЕНДОРА
-    НАЖМИТЕ/УДЕРЖИВАЙТЕ КНОПКУ ГРОМКОСТЬ+, 
-    ЧТОБЫ ОТКЛЮЧИТЬ
-    ВСЕ ОВЕРЛЕИ THEMED
+	НЕ ЗАБУДЬТЕ УСТАНОВИТЬ
+	BOOTLOOP PROTECTOR
     "
     echo uninstalling app updates
-  pm uninstall pro.themed.manager 
+  pm uninstall-system-updates pro.themed.manager 
   echo new version will be installed on boot if not found
-  
+  set_perm_recursive $MODPATH/system/bin 0 2000 0755 0755
+  	
   if [ -d  /system/product/overlay ]; then
     echo "- placing overlays in product"
     mv $MODPATH/system/folder $MODPATH/system/product

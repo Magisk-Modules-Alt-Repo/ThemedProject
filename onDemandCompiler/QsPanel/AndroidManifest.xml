@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1"
+    android:versionName="1"
+    android:compileSdkVersion="30"
+    android:compileSdkVersionCodename="11"
+    package="themed.qspanel.generic"
+    platformBuildVersionCode="26"
+    platformBuildVersionName="8">
+    <overlay
+        android:priority="1"
+        android:targetPackage="com.android.systemui"
+        android:category="themed.qspanel" />
+    <application
+        android:label="Themed QsPanel Generic"
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>
