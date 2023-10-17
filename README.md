@@ -3,4 +3,5 @@
 ![total-download-count](https://img.shields.io/github/downloads/Osanosa/ThemedProject/total?color=brightgreen)
 
 A8+, Magisk needed
+
 Latest screenshots are available at https://www.themed.pro/screenshots
