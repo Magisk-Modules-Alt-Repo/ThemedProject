@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="quick_settings_max_rows">@integer/config_qs_rows_landscape</integer>
+</resources>

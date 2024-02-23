@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="car_button_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="car_radius_1">@dimen/rounded_corner_radius</dimen>
+    <dimen name="car_radius_2">@dimen/rounded_corner_radius</dimen>
+    <dimen name="car_radius_3">@dimen/rounded_corner_radius</dimen>
+    <dimen name="chooser_corner_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="config_bottomDialogCornerRadius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="config_dialogCornerRadius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="config_progressBarCornerRadius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="date_picker_day_selector_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="default_magnifier_corner_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="dialog_corner_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="leanback_dialog_corner_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="messaging_image_rounding">@dimen/rounded_corner_radius</dimen>
+    <dimen name="notification_action_button_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="rounded_corner_radius">0.0dip</dimen>
+    <dimen name="rounded_corner_radius_bottom">@dimen/rounded_corner_radius</dimen>
+    <dimen name="rounded_corner_radius_top">@dimen/rounded_corner_radius</dimen>
+    <dimen name="subtitle_corner_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="subtitle_shadow_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="system_app_widget_inner_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="timepicker_center_dot_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="timepicker_selector_dot_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="timepicker_selector_radius">@dimen/rounded_corner_radius</dimen>
+    <dimen name="tooltip_corner_radius">@dimen/rounded_corner_radius</dimen>
+</resources>
