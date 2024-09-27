@@ -3,17 +3,20 @@
 # osm0sis @ xda-developers
 
 case $# in
-  1|3|5)
+1 | 3 | 5)
     # when one argument less than needed assume the output name is missing and automatically set it to *-signed.*
-    eval n=\${$#};
-    set -- "$@" "$(echo $n | sed 's/\(.*\)\./\1-signed\./')";
-  ;;
-esac;
+    eval n=\${$#}
+    set -- "$@" "$(echo $n | sed 's/\(.*\)\./\1-signed\./')"
+    ;;
+esac
 
 if [ "$USER" == "root" ]; then
-  dir="$(cd "$(dirname "$0")"; pwd)";
-   dalvikvm -Djava.io.tmpdir=. -Xnoimage-dex2oat -cp $dir/zipsigner-*.jar com.topjohnwu.utils.ZipSigner "$@";
+    dir="$(
+        cd "$(dirname "$0")"
+        pwd
+    )"
+    /apex/com.android.art/bin/dalvikvm -Djava.io.tmpdir=. -Xnodex2oat -Xnoimage-dex2oat -cp $dir/zipsigner-*.jar com.topjohnwu.utils.ZipSigner "$@" 2>/dev/null \
+ || /apex/com.android.art/bin/dalvikvm -Djava.io.tmpdir=. -Xnoimage-dex2oat -cp $dir/zipsigner-*.jar com.topjohnwu.utils.ZipSigner "$@"
 else
-  echo "zipsigner: need root permissions";
-fi;
-
+    echo "zipsigner: need root permissions"
+fi
