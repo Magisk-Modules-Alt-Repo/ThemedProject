@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="accent_device_default_light">@color/system_accent1_600</color>
-    <color name="accent_device_default_dark">@color/system_accent1_100</color>
+    <color name="accent_device_default_light">@color/system_accent1_500</color>
+    <color name="accent_device_default_dark">@color/system_accent1_500</color>
 
     <color name="background_device_default_dark">@color/system_neutral1_900</color>
     <color name="background_device_default_light">@color/system_neutral1_50</color>
